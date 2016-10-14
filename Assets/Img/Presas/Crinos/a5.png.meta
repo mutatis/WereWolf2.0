@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: 9cfdd86b71e7766459c0859d755bbcfa
+timeCreated: 1473961549
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: a5_0
+    21300002: a5_1
+    21300004: a5_2
+    21300006: a5_3
+    21300008: a5_4
+    21300010: a5_5
+    21300012: a5_6
+    21300014: a5_7
+    21300016: a5_8
+    21300018: a5_9
+    21300020: a5_10
+    21300022: a5_11
+    21300024: a5_12
+    21300026: a5_13
+    21300028: a5_14
+    21300030: a5_15
+    21300032: a5_16
+    21300034: a5_17
+    21300036: a5_18
+    21300038: a5_19
+    21300040: a5_20
+    21300042: a5_21
+    21300044: a5_22
+    21300046: a5_23
+    21300048: a5_24
+    21300050: a5_25
+    21300052: a5_26
+    21300054: a5_27
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 2
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 0
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 400
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: a5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4665
+        width: 942
+        height: 933
+      alignment: 9
+      pivot: {x: 0.57, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a5_1
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 4665
+        width: 942
+        height: 933
+      alignment: 9
+      pivot: {x: 0.57, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a5_2
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 4665
+        width: 942
+        height: 933
+      alignment: 9
+      pivot: {x: 0.57, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a5_3
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 4665
+        width: 942
+        height: 933
+      alignment: 9
+      pivot: {x: 0.57, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a5_4
+      rect:
+        serializedVersion: 2
+        x: 3768
+        y: 4665
+        width: 942
+        height: 933
+      alignment: 9
+      pivot: {x: 0.57, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a5_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3732
+        width: 942
+        height: 933
+      alignment: 9
+      pivot: {x: 0.57, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a5_6
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 3732
+        width: 942
+        height: 933
+      alignment: 9
+      pivot: {x: 0.57, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a5_7
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 3732
+        width: 942
+        height: 933
+      alignment: 9
+      pivot: {x: 0.57, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a5_8
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 3732
+        width: 942
+        height: 933
+      alignment: 9
+      pivot: {x: 0.57, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a5_9
+      rect:
+        serializedVersion: 2
+        x: 3768
+        y: 3732
+        width: 942
+        height: 933
+      alignment: 9
+      pivot: {x: 0.57, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a5_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2799
+        width: 942
+        height: 933
+      alignment: 9
+      pivot: {x: 0.57, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a5_11
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 2799
+        width: 942
+        height: 933
+      alignment: 9
+      pivot: {x: 0.57, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a5_12
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 2799
+        width: 942
+        height: 933
+      alignment: 9
+      pivot: {x: 0.57, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a5_13
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 2799
+        width: 942
+        height: 933
+      alignment: 9
+      pivot: {x: 0.57, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a5_14
+      rect:
+        serializedVersion: 2
+        x: 3768
+        y: 2799
+        width: 942
+        height: 933
+      alignment: 9
+      pivot: {x: 0.57, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a5_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1866
+        width: 942
+        height: 933
+      alignment: 9
+      pivot: {x: 0.57, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a5_16
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1866
+        width: 942
+        height: 933
+      alignment: 9
+      pivot: {x: 0.57, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a5_17
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1866
+        width: 942
+        height: 933
+      alignment: 9
+      pivot: {x: 0.57, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a5_18
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 1866
+        width: 942
+        height: 933
+      alignment: 9
+      pivot: {x: 0.57, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a5_19
+      rect:
+        serializedVersion: 2
+        x: 3768
+        y: 1866
+        width: 942
+        height: 933
+      alignment: 9
+      pivot: {x: 0.57, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a5_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 933
+        width: 942
+        height: 933
+      alignment: 9
+      pivot: {x: 0.57, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a5_21
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 933
+        width: 942
+        height: 933
+      alignment: 9
+      pivot: {x: 0.57, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a5_22
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 933
+        width: 942
+        height: 933
+      alignment: 9
+      pivot: {x: 0.57, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a5_23
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 933
+        width: 942
+        height: 933
+      alignment: 9
+      pivot: {x: 0.57, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a5_24
+      rect:
+        serializedVersion: 2
+        x: 3768
+        y: 933
+        width: 942
+        height: 933
+      alignment: 9
+      pivot: {x: 0.57, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a5_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 942
+        height: 933
+      alignment: 9
+      pivot: {x: 0.57, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a5_26
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 0
+        width: 942
+        height: 933
+      alignment: 9
+      pivot: {x: 0.57, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: a5_27
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 0
+        width: 942
+        height: 933
+      alignment: 9
+      pivot: {x: 0.57, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

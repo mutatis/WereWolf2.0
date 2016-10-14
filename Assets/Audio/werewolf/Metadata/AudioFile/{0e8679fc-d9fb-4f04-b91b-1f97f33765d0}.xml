@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.08.00">
+    <object class="AudioFile" id="{0e8679fc-d9fb-4f04-b91b-1f97f33765d0}">
+        <property name="assetPath">
+            <value>327279__studenttanita__polyester-and-knife.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>1</value>
+        </property>
+        <property name="length">
+            <value>29.523937499999999</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{8a401d65-f098-49db-9173-79042282f7f5}</destination>
+        </relationship>
+    </object>
+</objects>

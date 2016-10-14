@@ -1,0 +1,422 @@
+fileFormatVersion: 2
+guid: 09720385503cb7d40be40f6cf4bfbb60
+labels:
+- Grab
+- GangMember
+timeCreated: 1473181352
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: lili_rape1_0
+    21300002: lili_rape1_1
+    21300004: lili_rape1_2
+    21300006: lili_rape1_3
+    21300008: lili_rape1_4
+    21300010: lili_rape1_5
+    21300012: lili_rape1_6
+    21300014: lili_rape1_7
+    21300016: lili_rape1_8
+    21300018: lili_rape1_9
+    21300020: lili_rape1_10
+    21300022: lili_rape1_11
+    21300024: lili_rape1_12
+    21300026: lili_rape1_13
+    21300028: lili_rape1_14
+    21300030: lili_rape1_15
+    21300032: lili_rape1_16
+    21300034: lili_rape1_17
+    21300036: lili_rape1_18
+    21300038: lili_rape1_19
+    21300040: lili_rape1_20
+    21300042: lili_rape1_21
+    21300044: lili_rape1_22
+    21300046: lili_rape1_23
+    21300048: lili_grabed_0
+    21300050: lili_grabed_1
+    21300052: lili_grabed_2
+    21300054: lili_grabed_3
+    21300056: lili_grabed_4
+    21300058: lili_grabed_5
+    21300060: lili_grabed_6
+    21300062: lili_grabed_7
+    21300064: lili_grabed_8
+    21300066: lili_grabed_9
+    21300068: lili_grabed_10
+    21300070: lili_grabed_11
+    21300072: lili_grabed_12
+    21300074: lili_grabed_13
+    21300076: lili_grabed_14
+    21300078: lili_grabed_15
+    21300080: lili_grabed_16
+    21300082: lili_grabed_17
+    21300084: lili_grabed_18
+    21300086: lili_grabed_19
+    21300088: lili_grabed_20
+    21300090: lili_grabed_21
+    21300092: lili_grabed_22
+    21300094: lili_grabed_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 2
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 0
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 650
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lili_grabed_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3132
+        width: 765
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_grabed_1
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 3132
+        width: 765
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_grabed_2
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 3132
+        width: 765
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_grabed_3
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 3132
+        width: 765
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_grabed_4
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 3132
+        width: 765
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_grabed_5
+      rect:
+        serializedVersion: 2
+        x: 3825
+        y: 3132
+        width: 765
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_grabed_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2088
+        width: 765
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_grabed_7
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 2088
+        width: 765
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_grabed_8
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 2088
+        width: 765
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_grabed_9
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 2088
+        width: 765
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_grabed_10
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 2088
+        width: 765
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_grabed_11
+      rect:
+        serializedVersion: 2
+        x: 3825
+        y: 2088
+        width: 765
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_grabed_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1044
+        width: 765
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_grabed_13
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1044
+        width: 765
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_grabed_14
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1044
+        width: 765
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_grabed_15
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 1044
+        width: 765
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_grabed_16
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 1044
+        width: 765
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_grabed_17
+      rect:
+        serializedVersion: 2
+        x: 3825
+        y: 1044
+        width: 765
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_grabed_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 765
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_grabed_19
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 0
+        width: 765
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_grabed_20
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 0
+        width: 765
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_grabed_21
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 0
+        width: 765
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_grabed_22
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 0
+        width: 765
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_grabed_23
+      rect:
+        serializedVersion: 2
+        x: 3825
+        y: 0
+        width: 765
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

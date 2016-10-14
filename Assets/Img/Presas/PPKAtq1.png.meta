@@ -1,0 +1,409 @@
+fileFormatVersion: 2
+guid: 961e3b300e415a64587da28bbf82f970
+timeCreated: 1473703865
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PPKAtq1_0
+    21300002: PPKAtq1_1
+    21300004: PPKAtq1_2
+    21300006: PPKAtq1_3
+    21300008: PPKAtq1_4
+    21300010: PPKAtq1_5
+    21300012: PPKAtq1_6
+    21300014: PPKAtq1_7
+    21300016: PPKAtq1_8
+    21300018: PPKAtq1_9
+    21300020: PPKAtq1_10
+    21300022: PPKAtq1_11
+    21300024: PPKAtq1_12
+    21300026: PPKAtq1_13
+    21300028: PPKAtq1_14
+    21300030: PPKAtq1_15
+    21300032: PPKAtq1_16
+    21300034: PPKAtq1_17
+    21300036: PPKAtq1_18
+    21300038: PPKAtq1_19
+    21300040: PPKAtq1_20
+    21300042: PPKAtq1_21
+    21300044: PPKAtq1_22
+    21300046: PPKAtq1_23
+    21300048: PPKAtq1_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 2
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 0
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 450
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PPKAtq1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2904
+        width: 571
+        height: 726
+      alignment: 9
+      pivot: {x: 0.62, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPKAtq1_1
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 2904
+        width: 571
+        height: 726
+      alignment: 9
+      pivot: {x: 0.62, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPKAtq1_2
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 2904
+        width: 571
+        height: 726
+      alignment: 9
+      pivot: {x: 0.62, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPKAtq1_3
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 2904
+        width: 571
+        height: 726
+      alignment: 9
+      pivot: {x: 0.62, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPKAtq1_4
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 2904
+        width: 571
+        height: 726
+      alignment: 9
+      pivot: {x: 0.62, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPKAtq1_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2178
+        width: 571
+        height: 726
+      alignment: 9
+      pivot: {x: 0.62, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPKAtq1_6
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 2178
+        width: 571
+        height: 726
+      alignment: 9
+      pivot: {x: 0.62, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPKAtq1_7
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 2178
+        width: 571
+        height: 726
+      alignment: 9
+      pivot: {x: 0.62, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPKAtq1_8
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 2178
+        width: 571
+        height: 726
+      alignment: 9
+      pivot: {x: 0.62, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPKAtq1_9
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 2178
+        width: 571
+        height: 726
+      alignment: 9
+      pivot: {x: 0.62, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPKAtq1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1452
+        width: 571
+        height: 726
+      alignment: 9
+      pivot: {x: 0.62, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPKAtq1_11
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1452
+        width: 571
+        height: 726
+      alignment: 9
+      pivot: {x: 0.62, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPKAtq1_12
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1452
+        width: 571
+        height: 726
+      alignment: 9
+      pivot: {x: 0.62, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPKAtq1_13
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 1452
+        width: 571
+        height: 726
+      alignment: 9
+      pivot: {x: 0.62, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPKAtq1_14
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 1452
+        width: 571
+        height: 726
+      alignment: 9
+      pivot: {x: 0.62, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPKAtq1_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 726
+        width: 571
+        height: 726
+      alignment: 9
+      pivot: {x: 0.62, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPKAtq1_16
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 726
+        width: 571
+        height: 726
+      alignment: 9
+      pivot: {x: 0.62, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPKAtq1_17
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 726
+        width: 571
+        height: 726
+      alignment: 9
+      pivot: {x: 0.62, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPKAtq1_18
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 726
+        width: 571
+        height: 726
+      alignment: 9
+      pivot: {x: 0.62, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPKAtq1_19
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 726
+        width: 571
+        height: 726
+      alignment: 9
+      pivot: {x: 0.62, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPKAtq1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 571
+        height: 726
+      alignment: 9
+      pivot: {x: 0.62, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPKAtq1_21
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 0
+        width: 571
+        height: 726
+      alignment: 9
+      pivot: {x: 0.62, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPKAtq1_22
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 0
+        width: 571
+        height: 726
+      alignment: 9
+      pivot: {x: 0.62, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPKAtq1_23
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 0
+        width: 571
+        height: 726
+      alignment: 9
+      pivot: {x: 0.62, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPKAtq1_24
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 0
+        width: 571
+        height: 726
+      alignment: 9
+      pivot: {x: 0.62, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

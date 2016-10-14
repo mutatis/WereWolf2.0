@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Cube
+  - Parede
+  - EnemyRanged
+  - Parede1
+  - Parede2
+  - Parede3
+  - Chao
+  - PlayerEngage
+  - SubBoss
+  - Boss
+  - Pacman
+  - Parede4
+  - Pozinho
+  - Viagra
+  - Fantasma
+  - Roamming
+  - Continue
+  - Manager
+  - SlamArea
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemy
+  - ParedePlayer
+  - Parede
+  - BackGround
+  - Fantasma
+  - Pacman
+  - SlamArea
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 996918415
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Bonecos
+    uniqueID: 284983089
+    locked: 0
+  - name: UI
+    uniqueID: 1539759019
+    locked: 0

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.08.00">
+    <object class="AudioFile" id="{19ec8a76-0309-4f31-b3f8-f4905dc6860c}">
+        <property name="assetPath">
+            <value>pedranoar.aiff</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>1</value>
+        </property>
+        <property name="length">
+            <value>4.4087301587301591</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{8a401d65-f098-49db-9173-79042282f7f5}</destination>
+        </relationship>
+    </object>
+</objects>

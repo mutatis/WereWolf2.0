@@ -1,0 +1,409 @@
+fileFormatVersion: 2
+guid: d942ea990686e824791130eb5a1f5da2
+timeCreated: 1473777659
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PPSummon_0
+    21300002: PPSummon_1
+    21300004: PPSummon_2
+    21300006: PPSummon_3
+    21300008: PPSummon_4
+    21300010: PPSummon_5
+    21300012: PPSummon_6
+    21300014: PPSummon_7
+    21300016: PPSummon_8
+    21300018: PPSummon_9
+    21300020: PPSummon_10
+    21300022: PPSummon_11
+    21300024: PPSummon_12
+    21300026: PPSummon_13
+    21300028: PPSummon_14
+    21300030: PPSummon_15
+    21300032: PPSummon_16
+    21300034: PPSummon_17
+    21300036: PPSummon_18
+    21300038: PPSummon_19
+    21300040: PPSummon_20
+    21300042: PPSummon_21
+    21300044: PPSummon_22
+    21300046: PPSummon_23
+    21300048: PPSummon_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 2
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 0
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 450
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PPSummon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 799
+        height: 900
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPSummon_1
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 3600
+        width: 799
+        height: 900
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPSummon_2
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 3600
+        width: 799
+        height: 900
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPSummon_3
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 3600
+        width: 799
+        height: 900
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPSummon_4
+      rect:
+        serializedVersion: 2
+        x: 3196
+        y: 3600
+        width: 799
+        height: 900
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPSummon_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2700
+        width: 799
+        height: 900
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPSummon_6
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 2700
+        width: 799
+        height: 900
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPSummon_7
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 2700
+        width: 799
+        height: 900
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPSummon_8
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 2700
+        width: 799
+        height: 900
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPSummon_9
+      rect:
+        serializedVersion: 2
+        x: 3196
+        y: 2700
+        width: 799
+        height: 900
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPSummon_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 799
+        height: 900
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPSummon_11
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1800
+        width: 799
+        height: 900
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPSummon_12
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 1800
+        width: 799
+        height: 900
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPSummon_13
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 1800
+        width: 799
+        height: 900
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPSummon_14
+      rect:
+        serializedVersion: 2
+        x: 3196
+        y: 1800
+        width: 799
+        height: 900
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPSummon_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 799
+        height: 900
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPSummon_16
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 900
+        width: 799
+        height: 900
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPSummon_17
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 900
+        width: 799
+        height: 900
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPSummon_18
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 900
+        width: 799
+        height: 900
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPSummon_19
+      rect:
+        serializedVersion: 2
+        x: 3196
+        y: 900
+        width: 799
+        height: 900
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPSummon_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 799
+        height: 900
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPSummon_21
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 0
+        width: 799
+        height: 900
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPSummon_22
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 0
+        width: 799
+        height: 900
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPSummon_23
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 0
+        width: 799
+        height: 900
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PPSummon_24
+      rect:
+        serializedVersion: 2
+        x: 3196
+        y: 0
+        width: 799
+        height: 900
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

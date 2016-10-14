@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.08.00">
+    <object class="AudioFile" id="{fd320e50-6de8-4da8-beec-7195418a1ee7}">
+        <property name="assetPath">
+            <value>fundocidade.mp3</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>122.07020408163265</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{8a401d65-f098-49db-9173-79042282f7f5}</destination>
+        </relationship>
+    </object>
+</objects>

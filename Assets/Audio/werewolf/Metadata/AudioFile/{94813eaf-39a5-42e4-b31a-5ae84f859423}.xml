@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.08.00">
+    <object class="AudioFile" id="{94813eaf-39a5-42e4-b31a-5ae84f859423}">
+        <property name="assetPath">
+            <value>09 Rain On Corrugated Iron Rood Shed.flac</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>161.09333333333333</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{8a401d65-f098-49db-9173-79042282f7f5}</destination>
+        </relationship>
+    </object>
+</objects>

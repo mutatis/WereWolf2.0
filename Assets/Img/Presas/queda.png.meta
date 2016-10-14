@@ -1,0 +1,493 @@
+fileFormatVersion: 2
+guid: 1020923e7859d5742b6366f6b1c1e311
+timeCreated: 1473430062
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: queda_0
+    21300002: queda_1
+    21300004: queda_2
+    21300006: queda_3
+    21300008: queda_4
+    21300010: queda_5
+    21300012: queda_6
+    21300014: queda_7
+    21300016: queda_8
+    21300018: queda_9
+    21300020: queda_10
+    21300022: queda_11
+    21300024: queda_12
+    21300026: queda_13
+    21300028: queda_14
+    21300030: queda_15
+    21300032: queda_16
+    21300034: queda_17
+    21300036: queda_18
+    21300038: queda_19
+    21300040: queda_20
+    21300042: queda_21
+    21300044: queda_22
+    21300046: queda_23
+    21300048: queda_24
+    21300050: queda_25
+    21300052: queda_26
+    21300054: queda_27
+    21300056: queda_28
+    21300058: queda_29
+    21300060: queda_30
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 2
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 0
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 450
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: queda_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3675
+        width: 724
+        height: 735
+      alignment: 9
+      pivot: {x: 0.47, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: queda_1
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 3675
+        width: 724
+        height: 735
+      alignment: 9
+      pivot: {x: 0.47, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: queda_2
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 3675
+        width: 724
+        height: 735
+      alignment: 9
+      pivot: {x: 0.47, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: queda_3
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 3675
+        width: 724
+        height: 735
+      alignment: 9
+      pivot: {x: 0.47, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: queda_4
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 3675
+        width: 724
+        height: 735
+      alignment: 9
+      pivot: {x: 0.47, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: queda_5
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 3675
+        width: 724
+        height: 735
+      alignment: 9
+      pivot: {x: 0.47, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: queda_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2940
+        width: 724
+        height: 735
+      alignment: 9
+      pivot: {x: 0.47, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: queda_7
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 2940
+        width: 724
+        height: 735
+      alignment: 9
+      pivot: {x: 0.47, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: queda_8
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 2940
+        width: 724
+        height: 735
+      alignment: 9
+      pivot: {x: 0.47, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: queda_9
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 2940
+        width: 724
+        height: 735
+      alignment: 9
+      pivot: {x: 0.47, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: queda_10
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 2940
+        width: 724
+        height: 735
+      alignment: 9
+      pivot: {x: 0.47, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: queda_11
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 2940
+        width: 724
+        height: 735
+      alignment: 9
+      pivot: {x: 0.47, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: queda_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2205
+        width: 724
+        height: 735
+      alignment: 9
+      pivot: {x: 0.47, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: queda_13
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 2205
+        width: 724
+        height: 735
+      alignment: 9
+      pivot: {x: 0.47, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: queda_14
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 2205
+        width: 724
+        height: 735
+      alignment: 9
+      pivot: {x: 0.47, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: queda_15
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 2205
+        width: 724
+        height: 735
+      alignment: 9
+      pivot: {x: 0.47, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: queda_16
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 2205
+        width: 724
+        height: 735
+      alignment: 9
+      pivot: {x: 0.47, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: queda_17
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 2205
+        width: 724
+        height: 735
+      alignment: 9
+      pivot: {x: 0.47, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: queda_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1470
+        width: 724
+        height: 735
+      alignment: 9
+      pivot: {x: 0.47, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: queda_19
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1470
+        width: 724
+        height: 735
+      alignment: 9
+      pivot: {x: 0.47, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: queda_20
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 1470
+        width: 724
+        height: 735
+      alignment: 9
+      pivot: {x: 0.47, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: queda_21
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 1470
+        width: 724
+        height: 735
+      alignment: 9
+      pivot: {x: 0.47, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: queda_22
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 1470
+        width: 724
+        height: 735
+      alignment: 9
+      pivot: {x: 0.47, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: queda_23
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 1470
+        width: 724
+        height: 735
+      alignment: 9
+      pivot: {x: 0.47, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: queda_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 735
+        width: 724
+        height: 735
+      alignment: 9
+      pivot: {x: 0.47, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: queda_25
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 735
+        width: 724
+        height: 735
+      alignment: 9
+      pivot: {x: 0.47, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: queda_26
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 735
+        width: 724
+        height: 735
+      alignment: 9
+      pivot: {x: 0.47, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: queda_27
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 735
+        width: 724
+        height: 735
+      alignment: 9
+      pivot: {x: 0.47, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: queda_28
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 735
+        width: 724
+        height: 735
+      alignment: 9
+      pivot: {x: 0.47, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: queda_29
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 735
+        width: 724
+        height: 735
+      alignment: 9
+      pivot: {x: 0.47, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: queda_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 724
+        height: 735
+      alignment: 9
+      pivot: {x: 0.47, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

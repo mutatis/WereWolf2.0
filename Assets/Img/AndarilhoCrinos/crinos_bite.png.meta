@@ -1,0 +1,287 @@
+fileFormatVersion: 2
+guid: 3db9739a840feb443b251d01bc0ae926
+labels:
+- Andarilho
+- Crinos
+- SocoFraco2
+timeCreated: 1471282011
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: crinos_bite_0
+    21300002: crinos_bite_1
+    21300004: crinos_bite_2
+    21300006: crinos_bite_3
+    21300008: crinos_bite_4
+    21300010: crinos_bite_5
+    21300012: crinos_bite_6
+    21300014: crinos_bite_7
+    21300016: crinos_bite_8
+    21300018: crinos_bite_9
+    21300020: crinos_bite_10
+    21300022: crinos_bite_11
+    21300024: crinos_bite_12
+    21300026: crinos_bite_13
+    21300028: crinos_bite_14
+    21300030: crinos_bite_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 0
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 400
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crinos_bite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1953
+        width: 839
+        height: 651
+      alignment: 9
+      pivot: {x: 0.61, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_bite_1
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1953
+        width: 839
+        height: 651
+      alignment: 9
+      pivot: {x: 0.61, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_bite_2
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 1953
+        width: 839
+        height: 651
+      alignment: 9
+      pivot: {x: 0.61, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_bite_3
+      rect:
+        serializedVersion: 2
+        x: 2517
+        y: 1953
+        width: 839
+        height: 651
+      alignment: 9
+      pivot: {x: 0.61, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_bite_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1302
+        width: 839
+        height: 651
+      alignment: 9
+      pivot: {x: 0.61, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_bite_5
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1302
+        width: 839
+        height: 651
+      alignment: 9
+      pivot: {x: 0.61, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_bite_6
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 1302
+        width: 839
+        height: 651
+      alignment: 9
+      pivot: {x: 0.61, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_bite_7
+      rect:
+        serializedVersion: 2
+        x: 2517
+        y: 1302
+        width: 839
+        height: 651
+      alignment: 9
+      pivot: {x: 0.61, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_bite_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 651
+        width: 839
+        height: 651
+      alignment: 9
+      pivot: {x: 0.61, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_bite_9
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 651
+        width: 839
+        height: 651
+      alignment: 9
+      pivot: {x: 0.61, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_bite_10
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 651
+        width: 839
+        height: 651
+      alignment: 9
+      pivot: {x: 0.61, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_bite_11
+      rect:
+        serializedVersion: 2
+        x: 2517
+        y: 651
+        width: 839
+        height: 651
+      alignment: 9
+      pivot: {x: 0.61, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_bite_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 839
+        height: 651
+      alignment: 9
+      pivot: {x: 0.61, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_bite_13
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 0
+        width: 839
+        height: 651
+      alignment: 9
+      pivot: {x: 0.61, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_bite_14
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 0
+        width: 839
+        height: 651
+      alignment: 9
+      pivot: {x: 0.61, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_bite_15
+      rect:
+        serializedVersion: 2
+        x: 2517
+        y: 0
+        width: 839
+        height: 651
+      alignment: 9
+      pivot: {x: 0.61, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

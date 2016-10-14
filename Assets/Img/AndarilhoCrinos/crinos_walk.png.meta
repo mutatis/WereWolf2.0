@@ -1,0 +1,413 @@
+fileFormatVersion: 2
+guid: daf3ae04b6b1ec94a882048e089324be
+labels:
+- Andarilho
+- Walk
+- Crinos
+timeCreated: 1468258675
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: crinos_walk_0
+    21300002: crinos_walk_1
+    21300004: crinos_walk_2
+    21300006: crinos_walk_3
+    21300008: crinos_walk_4
+    21300010: crinos_walk_5
+    21300012: crinos_walk_6
+    21300014: crinos_walk_7
+    21300016: crinos_walk_8
+    21300018: crinos_walk_9
+    21300020: crinos_walk_10
+    21300022: crinos_walk_11
+    21300024: crinos_walk_12
+    21300026: crinos_walk_13
+    21300028: crinos_walk_14
+    21300030: crinos_walk_15
+    21300032: crinos_walk_16
+    21300034: crinos_walk_17
+    21300036: crinos_walk_18
+    21300038: crinos_walk_19
+    21300040: crinos_walk_20
+    21300042: crinos_walk_21
+    21300044: crinos_walk_22
+    21300046: crinos_walk_23
+    21300048: crinos_walk_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 0
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 400
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crinos_walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2832
+        width: 510
+        height: 708
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: crinos_walk_1
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2832
+        width: 510
+        height: 708
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: crinos_walk_2
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2832
+        width: 510
+        height: 708
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: crinos_walk_3
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 2832
+        width: 510
+        height: 708
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: crinos_walk_4
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2832
+        width: 510
+        height: 708
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: crinos_walk_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2124
+        width: 510
+        height: 708
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: crinos_walk_6
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2124
+        width: 510
+        height: 708
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: crinos_walk_7
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2124
+        width: 510
+        height: 708
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: crinos_walk_8
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 2124
+        width: 510
+        height: 708
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: crinos_walk_9
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2124
+        width: 510
+        height: 708
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: crinos_walk_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1416
+        width: 510
+        height: 708
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: crinos_walk_11
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1416
+        width: 510
+        height: 708
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: crinos_walk_12
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1416
+        width: 510
+        height: 708
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: crinos_walk_13
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1416
+        width: 510
+        height: 708
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: crinos_walk_14
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1416
+        width: 510
+        height: 708
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: crinos_walk_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 708
+        width: 510
+        height: 708
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: crinos_walk_16
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 708
+        width: 510
+        height: 708
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: crinos_walk_17
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 708
+        width: 510
+        height: 708
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: crinos_walk_18
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 708
+        width: 510
+        height: 708
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: crinos_walk_19
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 708
+        width: 510
+        height: 708
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: crinos_walk_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 510
+        height: 708
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: crinos_walk_21
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 0
+        width: 510
+        height: 708
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: crinos_walk_22
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 0
+        width: 510
+        height: 708
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: crinos_walk_23
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 0
+        width: 510
+        height: 708
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: crinos_walk_24
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 0
+        width: 510
+        height: 708
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,493 @@
+fileFormatVersion: 2
+guid: 5d4854c1eb88a774880f8353938fe3a3
+timeCreated: 1473962982
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CPPAtq1_0
+    21300002: CPPAtq1_1
+    21300004: CPPAtq1_2
+    21300006: CPPAtq1_3
+    21300008: CPPAtq1_4
+    21300010: CPPAtq1_5
+    21300012: CPPAtq1_6
+    21300014: CPPAtq1_7
+    21300016: CPPAtq1_8
+    21300018: CPPAtq1_9
+    21300020: CPPAtq1_10
+    21300022: CPPAtq1_11
+    21300024: CPPAtq1_12
+    21300026: CPPAtq1_13
+    21300028: CPPAtq1_14
+    21300030: CPPAtq1_15
+    21300032: CPPAtq1_16
+    21300034: CPPAtq1_17
+    21300036: CPPAtq1_18
+    21300038: CPPAtq1_19
+    21300040: CPPAtq1_20
+    21300042: CPPAtq1_21
+    21300044: CPPAtq1_22
+    21300046: CPPAtq1_23
+    21300048: CPPAtq1_24
+    21300050: CPPAtq1_25
+    21300052: CPPAtq1_26
+    21300054: CPPAtq1_27
+    21300056: CPPAtq1_28
+    21300058: CPPAtq1_29
+    21300060: CPPAtq1_30
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 2
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 0
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 400
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CPPAtq1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5000
+        width: 812
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.65, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPAtq1_1
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 5000
+        width: 812
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.65, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPAtq1_2
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 5000
+        width: 812
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.65, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPAtq1_3
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 5000
+        width: 812
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.65, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPAtq1_4
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 5000
+        width: 812
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.65, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPAtq1_5
+      rect:
+        serializedVersion: 2
+        x: 4060
+        y: 5000
+        width: 812
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.65, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPAtq1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4000
+        width: 812
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.65, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPAtq1_7
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 4000
+        width: 812
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.65, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPAtq1_8
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 4000
+        width: 812
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.65, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPAtq1_9
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 4000
+        width: 812
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.65, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPAtq1_10
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 4000
+        width: 812
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.65, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPAtq1_11
+      rect:
+        serializedVersion: 2
+        x: 4060
+        y: 4000
+        width: 812
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.65, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPAtq1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 812
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.65, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPAtq1_13
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 3000
+        width: 812
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.65, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPAtq1_14
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 3000
+        width: 812
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.65, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPAtq1_15
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 3000
+        width: 812
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.65, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPAtq1_16
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 3000
+        width: 812
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.65, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPAtq1_17
+      rect:
+        serializedVersion: 2
+        x: 4060
+        y: 3000
+        width: 812
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.65, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPAtq1_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 812
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.65, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPAtq1_19
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 2000
+        width: 812
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.65, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPAtq1_20
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 2000
+        width: 812
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.65, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPAtq1_21
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 2000
+        width: 812
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.65, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPAtq1_22
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 2000
+        width: 812
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.65, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPAtq1_23
+      rect:
+        serializedVersion: 2
+        x: 4060
+        y: 2000
+        width: 812
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.65, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPAtq1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 812
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.65, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPAtq1_25
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1000
+        width: 812
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.65, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPAtq1_26
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1000
+        width: 812
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.65, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPAtq1_27
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 1000
+        width: 812
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.65, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPAtq1_28
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 1000
+        width: 812
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.65, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPAtq1_29
+      rect:
+        serializedVersion: 2
+        x: 4060
+        y: 1000
+        width: 812
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.65, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPAtq1_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 812
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.65, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

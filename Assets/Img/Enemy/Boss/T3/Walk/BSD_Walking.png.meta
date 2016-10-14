@@ -1,0 +1,399 @@
+fileFormatVersion: 2
+guid: 079b2868fb6eec841a7a34017ff281e8
+labels:
+- Boss
+- Enemy
+- Walk
+timeCreated: 1472489610
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BSD_Walking_0
+    21300002: BSD_Walking_1
+    21300004: BSD_Walking_2
+    21300006: BSD_Walking_3
+    21300008: BSD_Walking_4
+    21300010: BSD_Walking_5
+    21300012: BSD_Walking_6
+    21300014: BSD_Walking_7
+    21300016: BSD_Walking_8
+    21300018: BSD_Walking_9
+    21300020: BSD_Walking_10
+    21300022: BSD_Walking_11
+    21300024: BSD_Walking_12
+    21300026: BSD_Walking_13
+    21300028: BSD_Walking_14
+    21300030: BSD_Walking_15
+    21300032: BSD_Walking_16
+    21300034: BSD_Walking_17
+    21300036: BSD_Walking_18
+    21300038: BSD_Walking_19
+    21300040: BSD_Walking_20
+    21300042: BSD_Walking_21
+    21300044: BSD_Walking_22
+    21300046: BSD_Walking_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 2
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 0
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 400
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BSD_Walking_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2742
+        width: 1172
+        height: 914
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Walking_1
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 2742
+        width: 1172
+        height: 914
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Walking_2
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 2742
+        width: 1172
+        height: 914
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Walking_3
+      rect:
+        serializedVersion: 2
+        x: 3516
+        y: 2742
+        width: 1172
+        height: 914
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Walking_4
+      rect:
+        serializedVersion: 2
+        x: 4688
+        y: 2742
+        width: 1172
+        height: 914
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Walking_5
+      rect:
+        serializedVersion: 2
+        x: 5860
+        y: 2742
+        width: 1172
+        height: 914
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Walking_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1828
+        width: 1172
+        height: 914
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Walking_7
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1828
+        width: 1172
+        height: 914
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Walking_8
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 1828
+        width: 1172
+        height: 914
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Walking_9
+      rect:
+        serializedVersion: 2
+        x: 3516
+        y: 1828
+        width: 1172
+        height: 914
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Walking_10
+      rect:
+        serializedVersion: 2
+        x: 4688
+        y: 1828
+        width: 1172
+        height: 914
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Walking_11
+      rect:
+        serializedVersion: 2
+        x: 5860
+        y: 1828
+        width: 1172
+        height: 914
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Walking_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 914
+        width: 1172
+        height: 914
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Walking_13
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 914
+        width: 1172
+        height: 914
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Walking_14
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 914
+        width: 1172
+        height: 914
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Walking_15
+      rect:
+        serializedVersion: 2
+        x: 3516
+        y: 914
+        width: 1172
+        height: 914
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Walking_16
+      rect:
+        serializedVersion: 2
+        x: 4688
+        y: 914
+        width: 1172
+        height: 914
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Walking_17
+      rect:
+        serializedVersion: 2
+        x: 5860
+        y: 914
+        width: 1172
+        height: 914
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Walking_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1172
+        height: 914
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Walking_19
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 0
+        width: 1172
+        height: 914
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Walking_20
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 0
+        width: 1172
+        height: 914
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Walking_21
+      rect:
+        serializedVersion: 2
+        x: 3516
+        y: 0
+        width: 1172
+        height: 914
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Walking_22
+      rect:
+        serializedVersion: 2
+        x: 4688
+        y: 0
+        width: 1172
+        height: 914
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Walking_23
+      rect:
+        serializedVersion: 2
+        x: 5860
+        y: 0
+        width: 1172
+        height: 914
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

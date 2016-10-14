@@ -1,0 +1,594 @@
+fileFormatVersion: 2
+guid: 593f27afa39b9804dab38fae8784f60d
+labels:
+- Andarilho
+- Dead
+timeCreated: 1473103739
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: lili_fall_0
+    21300002: lili_fall_1
+    21300004: lili_fall_2
+    21300006: lili_fall_3
+    21300008: lili_fall_4
+    21300010: lili_fall_5
+    21300012: lili_fall_6
+    21300014: lili_fall_7
+    21300016: lili_fall_8
+    21300018: lili_fall_9
+    21300020: lili_fall_10
+    21300022: lili_fall_11
+    21300024: lili_fall_12
+    21300026: lili_fall_13
+    21300028: lili_fall_14
+    21300030: lili_fall_15
+    21300032: lili_fall_16
+    21300034: lili_fall_17
+    21300036: lili_fall_18
+    21300038: lili_fall_19
+    21300040: lili_fall_20
+    21300042: lili_fall_21
+    21300044: lili_fall_22
+    21300046: lili_fall_23
+    21300048: lili_fall_24
+    21300050: lili_fall_25
+    21300052: lili_fall_26
+    21300054: lili_fall_27
+    21300056: lili_fall_28
+    21300058: lili_fall_29
+    21300060: lili_fall_30
+    21300062: lili_fall_31
+    21300064: lili_fall_32
+    21300066: lili_fall_33
+    21300068: lili_fall_34
+    21300070: lili_fall_35
+    21300072: lili_fall_36
+    21300074: lili_fall_37
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 2
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 0
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 500
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lili_fall_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3515
+        width: 755
+        height: 703
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_1
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 3515
+        width: 755
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_2
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 3515
+        width: 755
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_3
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 3515
+        width: 755
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_4
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 3515
+        width: 755
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_5
+      rect:
+        serializedVersion: 2
+        x: 3775
+        y: 3515
+        width: 755
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_6
+      rect:
+        serializedVersion: 2
+        x: 4530
+        y: 3515
+        width: 755
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2812
+        width: 755
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_8
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 2812
+        width: 755
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_9
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 2812
+        width: 755
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_10
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 2812
+        width: 755
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_11
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 2812
+        width: 755
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_12
+      rect:
+        serializedVersion: 2
+        x: 3775
+        y: 2812
+        width: 755
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_13
+      rect:
+        serializedVersion: 2
+        x: 4530
+        y: 2812
+        width: 755
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2109
+        width: 755
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_15
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 2109
+        width: 755
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_16
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 2109
+        width: 755
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_17
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 2109
+        width: 755
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_18
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 2109
+        width: 755
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_19
+      rect:
+        serializedVersion: 2
+        x: 3775
+        y: 2109
+        width: 755
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_20
+      rect:
+        serializedVersion: 2
+        x: 4530
+        y: 2109
+        width: 755
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1406
+        width: 755
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_22
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1406
+        width: 755
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_23
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1406
+        width: 755
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_24
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 1406
+        width: 755
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_25
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 1406
+        width: 755
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_26
+      rect:
+        serializedVersion: 2
+        x: 3775
+        y: 1406
+        width: 755
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_27
+      rect:
+        serializedVersion: 2
+        x: 4530
+        y: 1406
+        width: 755
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 703
+        width: 755
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_29
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 703
+        width: 755
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_30
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 703
+        width: 755
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_31
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 703
+        width: 755
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_32
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 703
+        width: 755
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_33
+      rect:
+        serializedVersion: 2
+        x: 3775
+        y: 703
+        width: 755
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_34
+      rect:
+        serializedVersion: 2
+        x: 4530
+        y: 703
+        width: 755
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 755
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_36
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 0
+        width: 755
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_37
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 0
+        width: 755
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

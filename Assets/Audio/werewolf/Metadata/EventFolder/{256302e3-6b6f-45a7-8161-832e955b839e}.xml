@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.08.00">
+    <object class="EventFolder" id="{256302e3-6b6f-45a7-8161-832e955b839e}">
+        <property name="name">
+            <value>Fabric of the Mind</value>
+        </property>
+        <relationship name="folder">
+            <destination>{fddb7ed4-b97c-4c9a-94d7-599d3a6e6450}</destination>
+        </relationship>
+    </object>
+</objects>

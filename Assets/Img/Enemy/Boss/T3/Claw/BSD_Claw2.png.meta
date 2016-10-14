@@ -1,0 +1,395 @@
+fileFormatVersion: 2
+guid: e3839b2bd909dd943b2ae9f14bac986b
+timeCreated: 1472739950
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BSD_Claw2_0
+    21300002: BSD_Claw2_1
+    21300004: BSD_Claw2_2
+    21300006: BSD_Claw2_3
+    21300008: BSD_Claw2_4
+    21300010: BSD_Claw2_5
+    21300012: BSD_Claw2_6
+    21300014: BSD_Claw2_7
+    21300016: BSD_Claw2_8
+    21300018: BSD_Claw2_9
+    21300020: BSD_Claw2_10
+    21300022: BSD_Claw2_11
+    21300024: BSD_Claw2_12
+    21300026: BSD_Claw2_13
+    21300028: BSD_Claw2_14
+    21300030: BSD_Claw2_15
+    21300032: BSD_Claw2_16
+    21300034: BSD_Claw2_17
+    21300036: BSD_Claw2_18
+    21300038: BSD_Claw2_19
+    21300040: BSD_Claw2_20
+    21300042: BSD_Claw2_21
+    21300044: BSD_Claw2_22
+    21300046: BSD_Claw2_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 2
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 0
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 400
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BSD_Claw2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3615
+        width: 1184
+        height: 1205
+      alignment: 9
+      pivot: {x: 0.58, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Claw2_1
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 3615
+        width: 1184
+        height: 1205
+      alignment: 9
+      pivot: {x: 0.58, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Claw2_2
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 3615
+        width: 1184
+        height: 1205
+      alignment: 9
+      pivot: {x: 0.58, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Claw2_3
+      rect:
+        serializedVersion: 2
+        x: 3552
+        y: 3615
+        width: 1184
+        height: 1205
+      alignment: 9
+      pivot: {x: 0.58, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Claw2_4
+      rect:
+        serializedVersion: 2
+        x: 4736
+        y: 3615
+        width: 1184
+        height: 1205
+      alignment: 9
+      pivot: {x: 0.58, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Claw2_5
+      rect:
+        serializedVersion: 2
+        x: 5920
+        y: 3615
+        width: 1184
+        height: 1205
+      alignment: 9
+      pivot: {x: 0.58, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Claw2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2410
+        width: 1184
+        height: 1205
+      alignment: 9
+      pivot: {x: 0.58, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Claw2_7
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 2410
+        width: 1184
+        height: 1205
+      alignment: 9
+      pivot: {x: 0.58, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Claw2_8
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 2410
+        width: 1184
+        height: 1205
+      alignment: 9
+      pivot: {x: 0.58, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Claw2_9
+      rect:
+        serializedVersion: 2
+        x: 3552
+        y: 2410
+        width: 1184
+        height: 1205
+      alignment: 9
+      pivot: {x: 0.58, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Claw2_10
+      rect:
+        serializedVersion: 2
+        x: 4736
+        y: 2410
+        width: 1184
+        height: 1205
+      alignment: 9
+      pivot: {x: 0.58, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Claw2_11
+      rect:
+        serializedVersion: 2
+        x: 5920
+        y: 2410
+        width: 1184
+        height: 1205
+      alignment: 9
+      pivot: {x: 0.58, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Claw2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1205
+        width: 1184
+        height: 1205
+      alignment: 9
+      pivot: {x: 0.58, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Claw2_13
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1205
+        width: 1184
+        height: 1205
+      alignment: 9
+      pivot: {x: 0.58, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Claw2_14
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 1205
+        width: 1184
+        height: 1205
+      alignment: 9
+      pivot: {x: 0.58, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Claw2_15
+      rect:
+        serializedVersion: 2
+        x: 3552
+        y: 1205
+        width: 1184
+        height: 1205
+      alignment: 9
+      pivot: {x: 0.58, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Claw2_16
+      rect:
+        serializedVersion: 2
+        x: 4736
+        y: 1205
+        width: 1184
+        height: 1205
+      alignment: 9
+      pivot: {x: 0.58, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Claw2_17
+      rect:
+        serializedVersion: 2
+        x: 5920
+        y: 1205
+        width: 1184
+        height: 1205
+      alignment: 9
+      pivot: {x: 0.58, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Claw2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1184
+        height: 1205
+      alignment: 9
+      pivot: {x: 0.58, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Claw2_19
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 0
+        width: 1184
+        height: 1205
+      alignment: 9
+      pivot: {x: 0.58, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Claw2_20
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 0
+        width: 1184
+        height: 1205
+      alignment: 9
+      pivot: {x: 0.58, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Claw2_21
+      rect:
+        serializedVersion: 2
+        x: 3552
+        y: 0
+        width: 1184
+        height: 1205
+      alignment: 9
+      pivot: {x: 0.58, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Claw2_22
+      rect:
+        serializedVersion: 2
+        x: 4736
+        y: 0
+        width: 1184
+        height: 1205
+      alignment: 9
+      pivot: {x: 0.58, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_Claw2_23
+      rect:
+        serializedVersion: 2
+        x: 5920
+        y: 0
+        width: 1184
+        height: 1205
+      alignment: 9
+      pivot: {x: 0.58, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

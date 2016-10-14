@@ -1,0 +1,930 @@
+fileFormatVersion: 2
+guid: 70c87dbc66d365a409ab66d95f5c23b2
+labels:
+- Andarilho
+- Jump
+timeCreated: 1465234359
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Jump1-Fall_0
+    21300002: Jump1-Fall_1
+    21300004: Jump1-Fall_2
+    21300006: Jump1-Fall_3
+    21300008: Jump1-Fall_4
+    21300010: Jump1-Fall_5
+    21300012: Jump1-Fall_6
+    21300014: Jump1-Fall_7
+    21300016: Jump1-Fall_8
+    21300018: Jump1-Fall_9
+    21300020: Jump1-Fall_10
+    21300022: Jump1-Fall_11
+    21300024: Jump1-Fall_12
+    21300026: Jump1-Fall_13
+    21300028: Jump1-Fall_14
+    21300030: Jump1-Fall_15
+    21300032: Jump1-Fall_16
+    21300034: Jump1-Fall_17
+    21300036: Jump1-Fall_18
+    21300038: Jump1-Fall_19
+    21300040: Jump1-Fall_20
+    21300042: Jump1-Fall_21
+    21300044: Jump1-Fall_22
+    21300046: Jump1-Fall_23
+    21300048: Jump1-Fall_24
+    21300050: Jump1-Fall_25
+    21300052: Jump1-Fall_26
+    21300054: Jump1-Fall_27
+    21300056: Jump1-Fall_28
+    21300058: Jump1-Fall_29
+    21300060: Jump1-Fall_30
+    21300062: Jump1-Fall_31
+    21300064: Jump1-Fall_32
+    21300066: Jump1-Fall_33
+    21300068: Jump1-Fall_34
+    21300070: Jump1-Fall_35
+    21300072: Jump1-Fall_36
+    21300074: Jump1-Fall_37
+    21300076: Jump1-Fall_38
+    21300078: Jump1-Fall_39
+    21300080: Jump1-Fall_40
+    21300082: Jump1-Fall_41
+    21300084: Jump1-Fall_42
+    21300086: Jump1-Fall_43
+    21300088: Jump1-Fall_44
+    21300090: Jump1-Fall_45
+    21300092: Jump1-Fall_46
+    21300094: Jump1-Fall_47
+    21300096: Jump1-Fall_48
+    21300098: Jump1-Fall_49
+    21300100: Jump1-Fall_50
+    21300102: Jump1-Fall_51
+    21300104: Jump1-Fall_52
+    21300106: Jump1-Fall_53
+    21300108: Jump1-Fall_54
+    21300110: Jump1-Fall_55
+    21300112: Jump1-Fall_56
+    21300114: Jump1-Fall_57
+    21300116: Jump1-Fall_58
+    21300118: Jump1-Fall_59
+    21300120: Jump1-Fall_60
+    21300122: Jump1-Fall_61
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 2
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 0
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 500
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jump1-Fall_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8184
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_1
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 8184
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_2
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 8184
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_3
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 8184
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_4
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 8184
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7502
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_6
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 7502
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_7
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 7502
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_8
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 7502
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_9
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 7502
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6820
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_11
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 6820
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_12
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 6820
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_13
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 6820
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_14
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 6820
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6138
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_16
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 6138
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_17
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 6138
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_18
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 6138
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_19
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 6138
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5456
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_21
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 5456
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_22
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 5456
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_23
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 5456
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_24
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 5456
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4774
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_26
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 4774
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_27
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 4774
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_28
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 4774
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_29
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 4774
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4092
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_31
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 4092
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_32
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 4092
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_33
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 4092
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_34
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 4092
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3410
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_36
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 3410
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_37
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 3410
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_38
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 3410
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_39
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 3410
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2728
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_41
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 2728
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_42
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 2728
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_43
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 2728
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_44
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 2728
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2046
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_46
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 2046
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_47
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 2046
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_48
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 2046
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_49
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 2046
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1364
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_51
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1364
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_52
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1364
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_53
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1364
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_54
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 1364
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 682
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_56
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 682
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_57
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 682
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_58
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 682
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_59
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 682
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Jump1-Fall_61
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 0
+        width: 443
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

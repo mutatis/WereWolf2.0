@@ -1,0 +1,538 @@
+fileFormatVersion: 2
+guid: 801acad63e37eb646bb610e45c160fa3
+labels:
+- Andarilho
+- SocoFraco1
+timeCreated: 1465223098
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SS01_0
+    21300002: SS01_1
+    21300004: SS01_2
+    21300006: SS01_3
+    21300008: SS01_4
+    21300010: SS01_5
+    21300012: SS01_6
+    21300014: SS01_7
+    21300016: SS01_8
+    21300018: SS01_9
+    21300020: SS01_10
+    21300022: SS01_11
+    21300024: SS01_12
+    21300026: SS01_13
+    21300028: SS01_14
+    21300030: SS01_15
+    21300032: SS01_16
+    21300034: SS01_17
+    21300036: SS01_18
+    21300038: SS01_19
+    21300040: SS01_20
+    21300042: SS01_21
+    21300044: SS01_22
+    21300046: SS01_23
+    21300048: SS01_24
+    21300050: SS01_25
+    21300052: SS01_26
+    21300054: SS01_27
+    21300056: SS01_28
+    21300058: SS01_29
+    21300060: SS01_30
+    21300062: SS01_31
+    21300064: SS01_32
+    21300066: SS01_33
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 0
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 470
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3318
+        width: 401
+        height: 553
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS01_1
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 3318
+        width: 401
+        height: 553
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS01_2
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 3318
+        width: 401
+        height: 553
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS01_3
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 3318
+        width: 401
+        height: 553
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS01_4
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 3318
+        width: 401
+        height: 553
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS01_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2765
+        width: 401
+        height: 553
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS01_6
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 2765
+        width: 401
+        height: 553
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS01_7
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 2765
+        width: 401
+        height: 553
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS01_8
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 2765
+        width: 401
+        height: 553
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS01_9
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 2765
+        width: 401
+        height: 553
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS01_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2212
+        width: 401
+        height: 553
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS01_11
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 2212
+        width: 401
+        height: 553
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS01_12
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 2212
+        width: 401
+        height: 553
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS01_13
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 2212
+        width: 401
+        height: 553
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS01_14
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 2212
+        width: 401
+        height: 553
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS01_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1659
+        width: 401
+        height: 553
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS01_16
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1659
+        width: 401
+        height: 553
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS01_17
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1659
+        width: 401
+        height: 553
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS01_18
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1659
+        width: 401
+        height: 553
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS01_19
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 1659
+        width: 401
+        height: 553
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS01_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1106
+        width: 401
+        height: 553
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS01_21
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1106
+        width: 401
+        height: 553
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS01_22
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1106
+        width: 401
+        height: 553
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS01_23
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1106
+        width: 401
+        height: 553
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS01_24
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 1106
+        width: 401
+        height: 553
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS01_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 553
+        width: 401
+        height: 553
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS01_26
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 553
+        width: 401
+        height: 553
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS01_27
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 553
+        width: 401
+        height: 553
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS01_28
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 553
+        width: 401
+        height: 553
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS01_29
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 553
+        width: 401
+        height: 553
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS01_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 401
+        height: 553
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS01_31
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 0
+        width: 401
+        height: 553
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS01_32
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 0
+        width: 401
+        height: 553
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS01_33
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 0
+        width: 401
+        height: 553
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

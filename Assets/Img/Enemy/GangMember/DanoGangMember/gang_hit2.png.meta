@@ -1,0 +1,412 @@
+fileFormatVersion: 2
+guid: 41709a39fad0342419bd712b6ffc35f1
+labels:
+- Damage
+- GangMember
+timeCreated: 1469642263
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gang_hit2_0
+    21300002: gang_hit2_1
+    21300004: gang_hit2_2
+    21300006: gang_hit2_3
+    21300008: gang_hit2_4
+    21300010: gang_hit2_5
+    21300012: gang_hit2_6
+    21300014: gang_hit2_7
+    21300016: gang_hit2_8
+    21300018: gang_hit2_9
+    21300020: gang_hit2_10
+    21300022: gang_hit2_11
+    21300024: gang_hit2_12
+    21300026: gang_hit2_13
+    21300028: gang_hit2_14
+    21300030: gang_hit2_15
+    21300032: gang_hit2_16
+    21300034: gang_hit2_17
+    21300036: gang_hit2_18
+    21300038: gang_hit2_19
+    21300040: gang_hit2_20
+    21300042: gang_hit2_21
+    21300044: gang_hit2_22
+    21300046: gang_hit2_23
+    21300048: gang_hit2_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 0
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 500
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gang_hit2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2784
+        width: 649
+        height: 696
+      alignment: 9
+      pivot: {x: 0.4, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_hit2_1
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 2784
+        width: 649
+        height: 696
+      alignment: 9
+      pivot: {x: 0.4, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_hit2_2
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 2784
+        width: 649
+        height: 696
+      alignment: 9
+      pivot: {x: 0.4, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_hit2_3
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 2784
+        width: 649
+        height: 696
+      alignment: 9
+      pivot: {x: 0.4, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_hit2_4
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 2784
+        width: 649
+        height: 696
+      alignment: 9
+      pivot: {x: 0.4, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_hit2_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2088
+        width: 649
+        height: 696
+      alignment: 9
+      pivot: {x: 0.4, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_hit2_6
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 2088
+        width: 649
+        height: 696
+      alignment: 9
+      pivot: {x: 0.4, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_hit2_7
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 2088
+        width: 649
+        height: 696
+      alignment: 9
+      pivot: {x: 0.4, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_hit2_8
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 2088
+        width: 649
+        height: 696
+      alignment: 9
+      pivot: {x: 0.4, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_hit2_9
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 2088
+        width: 649
+        height: 696
+      alignment: 9
+      pivot: {x: 0.4, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_hit2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1392
+        width: 649
+        height: 696
+      alignment: 9
+      pivot: {x: 0.4, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_hit2_11
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1392
+        width: 649
+        height: 696
+      alignment: 9
+      pivot: {x: 0.4, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_hit2_12
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 1392
+        width: 649
+        height: 696
+      alignment: 9
+      pivot: {x: 0.4, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_hit2_13
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 1392
+        width: 649
+        height: 696
+      alignment: 9
+      pivot: {x: 0.4, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_hit2_14
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 1392
+        width: 649
+        height: 696
+      alignment: 9
+      pivot: {x: 0.4, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_hit2_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 696
+        width: 649
+        height: 696
+      alignment: 9
+      pivot: {x: 0.4, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_hit2_16
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 696
+        width: 649
+        height: 696
+      alignment: 9
+      pivot: {x: 0.4, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_hit2_17
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 696
+        width: 649
+        height: 696
+      alignment: 9
+      pivot: {x: 0.4, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_hit2_18
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 696
+        width: 649
+        height: 696
+      alignment: 9
+      pivot: {x: 0.4, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_hit2_19
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 696
+        width: 649
+        height: 696
+      alignment: 9
+      pivot: {x: 0.4, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_hit2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 649
+        height: 696
+      alignment: 9
+      pivot: {x: 0.4, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_hit2_21
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 0
+        width: 649
+        height: 696
+      alignment: 9
+      pivot: {x: 0.4, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_hit2_22
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 0
+        width: 649
+        height: 696
+      alignment: 9
+      pivot: {x: 0.4, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_hit2_23
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 0
+        width: 649
+        height: 696
+      alignment: 9
+      pivot: {x: 0.4, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_hit2_24
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 0
+        width: 649
+        height: 696
+      alignment: 9
+      pivot: {x: 0.4, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

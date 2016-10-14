@@ -1,0 +1,577 @@
+fileFormatVersion: 2
+guid: 301101bd8367ce54fada198db7445613
+timeCreated: 1475696108
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: lili_fall_invertido_0
+    21300002: lili_fall_invertido_1
+    21300004: lili_fall_invertido_2
+    21300006: lili_fall_invertido_3
+    21300008: lili_fall_invertido_4
+    21300010: lili_fall_invertido_5
+    21300012: lili_fall_invertido_6
+    21300014: lili_fall_invertido_7
+    21300016: lili_fall_invertido_8
+    21300018: lili_fall_invertido_9
+    21300020: lili_fall_invertido_10
+    21300022: lili_fall_invertido_11
+    21300024: lili_fall_invertido_12
+    21300026: lili_fall_invertido_13
+    21300028: lili_fall_invertido_14
+    21300030: lili_fall_invertido_15
+    21300032: lili_fall_invertido_16
+    21300034: lili_fall_invertido_17
+    21300036: lili_fall_invertido_18
+    21300038: lili_fall_invertido_19
+    21300040: lili_fall_invertido_20
+    21300042: lili_fall_invertido_21
+    21300044: lili_fall_invertido_22
+    21300046: lili_fall_invertido_23
+    21300048: lili_fall_invertido_24
+    21300050: lili_fall_invertido_25
+    21300052: lili_fall_invertido_26
+    21300054: lili_fall_invertido_27
+    21300056: lili_fall_invertido_28
+    21300058: lili_fall_invertido_29
+    21300060: lili_fall_invertido_30
+    21300062: lili_fall_invertido_31
+    21300064: lili_fall_invertido_32
+    21300066: lili_fall_invertido_33
+    21300068: lili_fall_invertido_34
+    21300070: lili_fall_invertido_35
+    21300072: lili_fall_invertido_36
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 0
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 500
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lili_fall_invertido_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5236
+        width: 997
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_invertido_1
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 5236
+        width: 997
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_invertido_2
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 5236
+        width: 997
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_invertido_3
+      rect:
+        serializedVersion: 2
+        x: 2991
+        y: 5236
+        width: 997
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_invertido_4
+      rect:
+        serializedVersion: 2
+        x: 3988
+        y: 5236
+        width: 997
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_invertido_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4488
+        width: 997
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_invertido_6
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 4488
+        width: 997
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_invertido_7
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 4488
+        width: 997
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_invertido_8
+      rect:
+        serializedVersion: 2
+        x: 2991
+        y: 4488
+        width: 997
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_invertido_9
+      rect:
+        serializedVersion: 2
+        x: 3988
+        y: 4488
+        width: 997
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_invertido_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3740
+        width: 997
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_invertido_11
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 3740
+        width: 997
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_invertido_12
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 3740
+        width: 997
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_invertido_13
+      rect:
+        serializedVersion: 2
+        x: 2991
+        y: 3740
+        width: 997
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_invertido_14
+      rect:
+        serializedVersion: 2
+        x: 3988
+        y: 3740
+        width: 997
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_invertido_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2992
+        width: 997
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_invertido_16
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 2992
+        width: 997
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_invertido_17
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 2992
+        width: 997
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_invertido_18
+      rect:
+        serializedVersion: 2
+        x: 2991
+        y: 2992
+        width: 997
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_invertido_19
+      rect:
+        serializedVersion: 2
+        x: 3988
+        y: 2992
+        width: 997
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_invertido_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2244
+        width: 997
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_invertido_21
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 2244
+        width: 997
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_invertido_22
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 2244
+        width: 997
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_invertido_23
+      rect:
+        serializedVersion: 2
+        x: 2991
+        y: 2244
+        width: 997
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_invertido_24
+      rect:
+        serializedVersion: 2
+        x: 3988
+        y: 2244
+        width: 997
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_invertido_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1496
+        width: 997
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_invertido_26
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1496
+        width: 997
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_invertido_27
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 1496
+        width: 997
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_invertido_28
+      rect:
+        serializedVersion: 2
+        x: 2991
+        y: 1496
+        width: 997
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_invertido_29
+      rect:
+        serializedVersion: 2
+        x: 3988
+        y: 1496
+        width: 997
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_invertido_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 748
+        width: 997
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_invertido_31
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 748
+        width: 997
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_invertido_32
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 748
+        width: 997
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_invertido_33
+      rect:
+        serializedVersion: 2
+        x: 2991
+        y: 748
+        width: 997
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_invertido_34
+      rect:
+        serializedVersion: 2
+        x: 3988
+        y: 748
+        width: 997
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_invertido_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 997
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lili_fall_invertido_36
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 0
+        width: 997
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

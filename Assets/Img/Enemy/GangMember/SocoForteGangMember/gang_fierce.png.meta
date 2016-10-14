@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: 01af19ca8428adc4ea7cdeffac42b2a2
+labels:
+- SocoForte
+- GangMember
+timeCreated: 1469473598
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gang_fierce_0
+    21300002: gang_fierce_1
+    21300004: gang_fierce_2
+    21300006: gang_fierce_3
+    21300008: gang_fierce_4
+    21300010: gang_fierce_5
+    21300012: gang_fierce_6
+    21300014: gang_fierce_7
+    21300016: gang_fierce_8
+    21300018: gang_fierce_9
+    21300020: gang_fierce_10
+    21300022: gang_fierce_11
+    21300024: gang_fierce_12
+    21300026: gang_fierce_13
+    21300028: gang_fierce_14
+    21300030: gang_fierce_15
+    21300032: gang_fierce_16
+    21300034: gang_fierce_17
+    21300036: gang_fierce_18
+    21300038: gang_fierce_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 2
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 0
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 500
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gang_fierce_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1370
+        width: 620
+        height: 685
+      alignment: 9
+      pivot: {x: 0.56, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_fierce_1
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1370
+        width: 620
+        height: 685
+      alignment: 9
+      pivot: {x: 0.56, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_fierce_2
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1370
+        width: 620
+        height: 685
+      alignment: 9
+      pivot: {x: 0.56, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_fierce_3
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1370
+        width: 620
+        height: 685
+      alignment: 9
+      pivot: {x: 0.56, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_fierce_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 685
+        width: 620
+        height: 685
+      alignment: 9
+      pivot: {x: 0.56, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_fierce_5
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 685
+        width: 620
+        height: 685
+      alignment: 9
+      pivot: {x: 0.56, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_fierce_6
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 685
+        width: 620
+        height: 685
+      alignment: 9
+      pivot: {x: 0.56, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_fierce_7
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 685
+        width: 620
+        height: 685
+      alignment: 9
+      pivot: {x: 0.56, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_fierce_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 620
+        height: 685
+      alignment: 9
+      pivot: {x: 0.56, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_fierce_9
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 0
+        width: 620
+        height: 685
+      alignment: 9
+      pivot: {x: 0.56, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_fierce_10
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 0
+        width: 620
+        height: 685
+      alignment: 9
+      pivot: {x: 0.56, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_fierce_11
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 0
+        width: 620
+        height: 685
+      alignment: 9
+      pivot: {x: 0.56, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

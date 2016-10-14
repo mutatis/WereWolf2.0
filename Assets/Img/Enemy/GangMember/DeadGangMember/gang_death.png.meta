@@ -1,0 +1,482 @@
+fileFormatVersion: 2
+guid: df2d1cf4d7dd23644a7307b1610dbd5d
+labels:
+- Dead
+- GangMember
+timeCreated: 1469642367
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gang_death_0
+    21300002: gang_death_1
+    21300004: gang_death_2
+    21300006: gang_death_3
+    21300008: gang_death_4
+    21300010: gang_death_5
+    21300012: gang_death_6
+    21300014: gang_death_7
+    21300016: gang_death_8
+    21300018: gang_death_9
+    21300020: gang_death_10
+    21300022: gang_death_11
+    21300024: gang_death_12
+    21300026: gang_death_13
+    21300028: gang_death_14
+    21300030: gang_death_15
+    21300032: gang_death_16
+    21300034: gang_death_17
+    21300036: gang_death_18
+    21300038: gang_death_19
+    21300040: gang_death_20
+    21300042: gang_death_21
+    21300044: gang_death_22
+    21300046: gang_death_23
+    21300048: gang_death_24
+    21300050: gang_death_25
+    21300052: gang_death_26
+    21300054: gang_death_27
+    21300056: gang_death_28
+    21300058: gang_death_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 2
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 0
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 500
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gang_death_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4060
+        width: 1347
+        height: 812
+      alignment: 9
+      pivot: {x: 0.2, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_death_1
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 4060
+        width: 1347
+        height: 812
+      alignment: 9
+      pivot: {x: 0.2, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_death_2
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 4060
+        width: 1347
+        height: 812
+      alignment: 9
+      pivot: {x: 0.2, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_death_3
+      rect:
+        serializedVersion: 2
+        x: 4041
+        y: 4060
+        width: 1347
+        height: 812
+      alignment: 9
+      pivot: {x: 0.2, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_death_4
+      rect:
+        serializedVersion: 2
+        x: 5388
+        y: 4060
+        width: 1347
+        height: 812
+      alignment: 9
+      pivot: {x: 0.2, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_death_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3248
+        width: 1347
+        height: 812
+      alignment: 9
+      pivot: {x: 0.2, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_death_6
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 3248
+        width: 1347
+        height: 812
+      alignment: 9
+      pivot: {x: 0.2, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_death_7
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 3248
+        width: 1347
+        height: 812
+      alignment: 9
+      pivot: {x: 0.2, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_death_8
+      rect:
+        serializedVersion: 2
+        x: 4041
+        y: 3248
+        width: 1347
+        height: 812
+      alignment: 9
+      pivot: {x: 0.2, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_death_9
+      rect:
+        serializedVersion: 2
+        x: 5388
+        y: 3248
+        width: 1347
+        height: 812
+      alignment: 9
+      pivot: {x: 0.2, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_death_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2436
+        width: 1347
+        height: 812
+      alignment: 9
+      pivot: {x: 0.2, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_death_11
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 2436
+        width: 1347
+        height: 812
+      alignment: 9
+      pivot: {x: 0.2, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_death_12
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 2436
+        width: 1347
+        height: 812
+      alignment: 9
+      pivot: {x: 0.2, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_death_13
+      rect:
+        serializedVersion: 2
+        x: 4041
+        y: 2436
+        width: 1347
+        height: 812
+      alignment: 9
+      pivot: {x: 0.2, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_death_14
+      rect:
+        serializedVersion: 2
+        x: 5388
+        y: 2436
+        width: 1347
+        height: 812
+      alignment: 9
+      pivot: {x: 0.2, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_death_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1624
+        width: 1347
+        height: 812
+      alignment: 9
+      pivot: {x: 0.2, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_death_16
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1624
+        width: 1347
+        height: 812
+      alignment: 9
+      pivot: {x: 0.2, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_death_17
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 1624
+        width: 1347
+        height: 812
+      alignment: 9
+      pivot: {x: 0.2, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_death_18
+      rect:
+        serializedVersion: 2
+        x: 4041
+        y: 1624
+        width: 1347
+        height: 812
+      alignment: 9
+      pivot: {x: 0.2, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_death_19
+      rect:
+        serializedVersion: 2
+        x: 5388
+        y: 1624
+        width: 1347
+        height: 812
+      alignment: 9
+      pivot: {x: 0.2, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_death_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 812
+        width: 1347
+        height: 812
+      alignment: 9
+      pivot: {x: 0.2, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_death_21
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 812
+        width: 1347
+        height: 812
+      alignment: 9
+      pivot: {x: 0.2, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_death_22
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 812
+        width: 1347
+        height: 812
+      alignment: 9
+      pivot: {x: 0.2, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_death_23
+      rect:
+        serializedVersion: 2
+        x: 4041
+        y: 812
+        width: 1347
+        height: 812
+      alignment: 9
+      pivot: {x: 0.2, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_death_24
+      rect:
+        serializedVersion: 2
+        x: 5388
+        y: 812
+        width: 1347
+        height: 812
+      alignment: 9
+      pivot: {x: 0.2, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_death_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1347
+        height: 812
+      alignment: 9
+      pivot: {x: 0.2, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_death_26
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 0
+        width: 1347
+        height: 812
+      alignment: 9
+      pivot: {x: 0.2, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_death_27
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 0
+        width: 1347
+        height: 812
+      alignment: 9
+      pivot: {x: 0.2, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_death_28
+      rect:
+        serializedVersion: 2
+        x: 4041
+        y: 0
+        width: 1347
+        height: 812
+      alignment: 9
+      pivot: {x: 0.2, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: gang_death_29
+      rect:
+        serializedVersion: 2
+        x: 5388
+        y: 0
+        width: 1347
+        height: 812
+      alignment: 9
+      pivot: {x: 0.2, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

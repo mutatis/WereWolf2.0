@@ -1,0 +1,902 @@
+fileFormatVersion: 2
+guid: 327a73a6ae6caba449e63fa687d13afa
+labels:
+- Andarilho
+- SocoFraco2
+timeCreated: 1465222972
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SS2_0
+    21300002: SS2_1
+    21300004: SS2_2
+    21300006: SS2_3
+    21300008: SS2_4
+    21300010: SS2_5
+    21300012: SS2_6
+    21300014: SS2_7
+    21300016: SS2_8
+    21300018: SS2_9
+    21300020: SS2_10
+    21300022: SS2_11
+    21300024: SS2_12
+    21300026: SS2_13
+    21300028: SS2_14
+    21300030: SS2_15
+    21300032: SS2_16
+    21300034: SS2_17
+    21300036: SS2_18
+    21300038: SS2_19
+    21300040: SS2_20
+    21300042: SS2_21
+    21300044: SS2_22
+    21300046: SS2_23
+    21300048: SS2_24
+    21300050: SS2_25
+    21300052: SS2_26
+    21300054: SS2_27
+    21300056: SS2_28
+    21300058: SS2_29
+    21300060: SS2_30
+    21300062: SS2_31
+    21300064: SS2_32
+    21300066: SS2_33
+    21300068: SS2_34
+    21300070: SS2_35
+    21300072: SS2_36
+    21300074: SS2_37
+    21300076: SS2_38
+    21300078: SS2_39
+    21300080: SS2_40
+    21300082: SS2_41
+    21300084: SS2_42
+    21300086: SS2_43
+    21300088: SS2_44
+    21300090: SS2_45
+    21300092: SS2_46
+    21300094: SS2_47
+    21300096: SS2_48
+    21300098: SS2_49
+    21300100: SS2_50
+    21300102: SS2_51
+    21300104: SS2_52
+    21300106: SS2_53
+    21300108: SS2_54
+    21300110: SS2_55
+    21300112: SS2_56
+    21300114: SS2_57
+    21300116: SS2_58
+    21300118: SS2_59
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 2
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 0
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 470
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6259
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_1
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 6259
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_2
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 6259
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_3
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 6259
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_4
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 6259
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5690
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_6
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 5690
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_7
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 5690
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_8
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 5690
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_9
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 5690
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5121
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_11
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 5121
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_12
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 5121
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_13
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 5121
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_14
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 5121
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4552
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_16
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 4552
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_17
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 4552
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_18
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 4552
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_19
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 4552
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3983
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_21
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 3983
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_22
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 3983
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_23
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 3983
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_24
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 3983
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3414
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_26
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 3414
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_27
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 3414
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_28
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 3414
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_29
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 3414
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2845
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_31
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 2845
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_32
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 2845
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_33
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 2845
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_34
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 2845
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2276
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_36
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 2276
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_37
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 2276
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_38
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 2276
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_39
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 2276
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1707
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_41
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1707
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_42
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1707
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_43
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1707
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_44
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1707
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1138
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_46
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1138
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_47
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1138
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_48
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1138
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_49
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1138
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 569
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_51
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 569
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_52
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 569
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_53
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 569
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_54
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 569
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_56
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 0
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_57
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 0
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_58
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 0
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: SS2_59
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 0
+        width: 464
+        height: 569
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

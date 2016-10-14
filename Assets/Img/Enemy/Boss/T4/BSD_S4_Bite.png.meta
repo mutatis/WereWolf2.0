@@ -1,0 +1,395 @@
+fileFormatVersion: 2
+guid: c114fba251c94a14483f2822bb706f79
+timeCreated: 1474566468
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BSD_S4_Bite_0
+    21300002: BSD_S4_Bite_1
+    21300004: BSD_S4_Bite_2
+    21300006: BSD_S4_Bite_3
+    21300008: BSD_S4_Bite_4
+    21300010: BSD_S4_Bite_5
+    21300012: BSD_S4_Bite_6
+    21300014: BSD_S4_Bite_7
+    21300016: BSD_S4_Bite_8
+    21300018: BSD_S4_Bite_9
+    21300020: BSD_S4_Bite_10
+    21300022: BSD_S4_Bite_11
+    21300024: BSD_S4_Bite_12
+    21300026: BSD_S4_Bite_13
+    21300028: BSD_S4_Bite_14
+    21300030: BSD_S4_Bite_15
+    21300032: BSD_S4_Bite_16
+    21300034: BSD_S4_Bite_17
+    21300036: BSD_S4_Bite_18
+    21300038: BSD_S4_Bite_19
+    21300040: BSD_S4_Bite_20
+    21300042: BSD_S4_Bite_21
+    21300044: BSD_S4_Bite_22
+    21300046: BSD_S4_Bite_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 0
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 400
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BSD_S4_Bite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2895
+        width: 1041
+        height: 965
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_S4_Bite_1
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 2895
+        width: 1041
+        height: 965
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_S4_Bite_2
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 2895
+        width: 1041
+        height: 965
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_S4_Bite_3
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 2895
+        width: 1041
+        height: 965
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_S4_Bite_4
+      rect:
+        serializedVersion: 2
+        x: 4164
+        y: 2895
+        width: 1041
+        height: 965
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_S4_Bite_5
+      rect:
+        serializedVersion: 2
+        x: 5205
+        y: 2895
+        width: 1041
+        height: 965
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_S4_Bite_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1930
+        width: 1041
+        height: 965
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_S4_Bite_7
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1930
+        width: 1041
+        height: 965
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_S4_Bite_8
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 1930
+        width: 1041
+        height: 965
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_S4_Bite_9
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 1930
+        width: 1041
+        height: 965
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_S4_Bite_10
+      rect:
+        serializedVersion: 2
+        x: 4164
+        y: 1930
+        width: 1041
+        height: 965
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_S4_Bite_11
+      rect:
+        serializedVersion: 2
+        x: 5205
+        y: 1930
+        width: 1041
+        height: 965
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_S4_Bite_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 965
+        width: 1041
+        height: 965
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_S4_Bite_13
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 965
+        width: 1041
+        height: 965
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_S4_Bite_14
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 965
+        width: 1041
+        height: 965
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_S4_Bite_15
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 965
+        width: 1041
+        height: 965
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_S4_Bite_16
+      rect:
+        serializedVersion: 2
+        x: 4164
+        y: 965
+        width: 1041
+        height: 965
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_S4_Bite_17
+      rect:
+        serializedVersion: 2
+        x: 5205
+        y: 965
+        width: 1041
+        height: 965
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_S4_Bite_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1041
+        height: 965
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_S4_Bite_19
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 0
+        width: 1041
+        height: 965
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_S4_Bite_20
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 0
+        width: 1041
+        height: 965
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_S4_Bite_21
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 0
+        width: 1041
+        height: 965
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_S4_Bite_22
+      rect:
+        serializedVersion: 2
+        x: 4164
+        y: 0
+        width: 1041
+        height: 965
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BSD_S4_Bite_23
+      rect:
+        serializedVersion: 2
+        x: 5205
+        y: 0
+        width: 1041
+        height: 965
+      alignment: 9
+      pivot: {x: 0.55, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

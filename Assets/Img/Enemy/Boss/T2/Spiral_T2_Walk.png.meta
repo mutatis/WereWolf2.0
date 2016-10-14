@@ -1,0 +1,395 @@
+fileFormatVersion: 2
+guid: e868647eb9ff5744baf47b95ea58479a
+timeCreated: 1473449395
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Spiral_T2_Walk_0
+    21300002: Spiral_T2_Walk_1
+    21300004: Spiral_T2_Walk_2
+    21300006: Spiral_T2_Walk_3
+    21300008: Spiral_T2_Walk_4
+    21300010: Spiral_T2_Walk_5
+    21300012: Spiral_T2_Walk_6
+    21300014: Spiral_T2_Walk_7
+    21300016: Spiral_T2_Walk_8
+    21300018: Spiral_T2_Walk_9
+    21300020: Spiral_T2_Walk_10
+    21300022: Spiral_T2_Walk_11
+    21300024: Spiral_T2_Walk_12
+    21300026: Spiral_T2_Walk_13
+    21300028: Spiral_T2_Walk_14
+    21300030: Spiral_T2_Walk_15
+    21300032: Spiral_T2_Walk_16
+    21300034: Spiral_T2_Walk_17
+    21300036: Spiral_T2_Walk_18
+    21300038: Spiral_T2_Walk_19
+    21300040: Spiral_T2_Walk_20
+    21300042: Spiral_T2_Walk_21
+    21300044: Spiral_T2_Walk_22
+    21300046: Spiral_T2_Walk_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 0
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 400
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spiral_T2_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2763
+        width: 1217
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 2763
+        width: 1217
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 2763
+        width: 1217
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 3651
+        y: 2763
+        width: 1217
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 4868
+        y: 2763
+        width: 1217
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 6085
+        y: 2763
+        width: 1217
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1842
+        width: 1217
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 1842
+        width: 1217
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Walk_8
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 1842
+        width: 1217
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Walk_9
+      rect:
+        serializedVersion: 2
+        x: 3651
+        y: 1842
+        width: 1217
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Walk_10
+      rect:
+        serializedVersion: 2
+        x: 4868
+        y: 1842
+        width: 1217
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Walk_11
+      rect:
+        serializedVersion: 2
+        x: 6085
+        y: 1842
+        width: 1217
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Walk_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 921
+        width: 1217
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Walk_13
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 921
+        width: 1217
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Walk_14
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 921
+        width: 1217
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Walk_15
+      rect:
+        serializedVersion: 2
+        x: 3651
+        y: 921
+        width: 1217
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Walk_16
+      rect:
+        serializedVersion: 2
+        x: 4868
+        y: 921
+        width: 1217
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Walk_17
+      rect:
+        serializedVersion: 2
+        x: 6085
+        y: 921
+        width: 1217
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Walk_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1217
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Walk_19
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 0
+        width: 1217
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Walk_20
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 0
+        width: 1217
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Walk_21
+      rect:
+        serializedVersion: 2
+        x: 3651
+        y: 0
+        width: 1217
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Walk_22
+      rect:
+        serializedVersion: 2
+        x: 4868
+        y: 0
+        width: 1217
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Walk_23
+      rect:
+        serializedVersion: 2
+        x: 6085
+        y: 0
+        width: 1217
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,423 @@
+fileFormatVersion: 2
+guid: 8bf1e7165b9ccf347b212a077671f831
+timeCreated: 1474383169
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: KalebP1_0
+    21300002: KalebP1_1
+    21300004: KalebP1_2
+    21300006: KalebP1_3
+    21300008: KalebP1_4
+    21300010: KalebP1_5
+    21300012: KalebP1_6
+    21300014: KalebP1_7
+    21300016: KalebP1_8
+    21300018: KalebP1_9
+    21300020: KalebP1_10
+    21300022: KalebP1_11
+    21300024: KalebP1_12
+    21300026: KalebP1_13
+    21300028: KalebP1_14
+    21300030: KalebP1_15
+    21300032: KalebP1_16
+    21300034: KalebP1_17
+    21300036: KalebP1_18
+    21300038: KalebP1_19
+    21300040: KalebP1_20
+    21300042: KalebP1_21
+    21300044: KalebP1_22
+    21300046: KalebP1_23
+    21300048: KalebP1_24
+    21300050: KalebP1_25
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 2
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 0
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 450
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KalebP1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2736
+        width: 595
+        height: 684
+      alignment: 9
+      pivot: {x: 0.43, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KalebP1_1
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 2736
+        width: 595
+        height: 684
+      alignment: 9
+      pivot: {x: 0.43, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KalebP1_2
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 2736
+        width: 595
+        height: 684
+      alignment: 9
+      pivot: {x: 0.43, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KalebP1_3
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 2736
+        width: 595
+        height: 684
+      alignment: 9
+      pivot: {x: 0.43, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KalebP1_4
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 2736
+        width: 595
+        height: 684
+      alignment: 9
+      pivot: {x: 0.43, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KalebP1_5
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 2736
+        width: 595
+        height: 684
+      alignment: 9
+      pivot: {x: 0.43, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KalebP1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2052
+        width: 595
+        height: 684
+      alignment: 9
+      pivot: {x: 0.43, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KalebP1_7
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 2052
+        width: 595
+        height: 684
+      alignment: 9
+      pivot: {x: 0.43, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KalebP1_8
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 2052
+        width: 595
+        height: 684
+      alignment: 9
+      pivot: {x: 0.43, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KalebP1_9
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 2052
+        width: 595
+        height: 684
+      alignment: 9
+      pivot: {x: 0.43, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KalebP1_10
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 2052
+        width: 595
+        height: 684
+      alignment: 9
+      pivot: {x: 0.43, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KalebP1_11
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 2052
+        width: 595
+        height: 684
+      alignment: 9
+      pivot: {x: 0.43, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KalebP1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1368
+        width: 595
+        height: 684
+      alignment: 9
+      pivot: {x: 0.43, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KalebP1_13
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1368
+        width: 595
+        height: 684
+      alignment: 9
+      pivot: {x: 0.43, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KalebP1_14
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1368
+        width: 595
+        height: 684
+      alignment: 9
+      pivot: {x: 0.43, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KalebP1_15
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 1368
+        width: 595
+        height: 684
+      alignment: 9
+      pivot: {x: 0.43, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KalebP1_16
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 1368
+        width: 595
+        height: 684
+      alignment: 9
+      pivot: {x: 0.43, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KalebP1_17
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 1368
+        width: 595
+        height: 684
+      alignment: 9
+      pivot: {x: 0.43, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KalebP1_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 684
+        width: 595
+        height: 684
+      alignment: 9
+      pivot: {x: 0.43, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KalebP1_19
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 684
+        width: 595
+        height: 684
+      alignment: 9
+      pivot: {x: 0.43, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KalebP1_20
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 684
+        width: 595
+        height: 684
+      alignment: 9
+      pivot: {x: 0.43, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KalebP1_21
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 684
+        width: 595
+        height: 684
+      alignment: 9
+      pivot: {x: 0.43, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KalebP1_22
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 684
+        width: 595
+        height: 684
+      alignment: 9
+      pivot: {x: 0.43, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KalebP1_23
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 684
+        width: 595
+        height: 684
+      alignment: 9
+      pivot: {x: 0.43, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KalebP1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 595
+        height: 684
+      alignment: 9
+      pivot: {x: 0.43, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: KalebP1_25
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 0
+        width: 595
+        height: 684
+      alignment: 9
+      pivot: {x: 0.43, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,493 @@
+fileFormatVersion: 2
+guid: 0b7aef886a58e7f42ad931dfc7af60a3
+timeCreated: 1473958473
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CPPRun_0
+    21300002: CPPRun_1
+    21300004: CPPRun_2
+    21300006: CPPRun_3
+    21300008: CPPRun_4
+    21300010: CPPRun_5
+    21300012: CPPRun_6
+    21300014: CPPRun_7
+    21300016: CPPRun_8
+    21300018: CPPRun_9
+    21300020: CPPRun_10
+    21300022: CPPRun_11
+    21300024: CPPRun_12
+    21300026: CPPRun_13
+    21300028: CPPRun_14
+    21300030: CPPRun_15
+    21300032: CPPRun_16
+    21300034: CPPRun_17
+    21300036: CPPRun_18
+    21300038: CPPRun_19
+    21300040: CPPRun_20
+    21300042: CPPRun_21
+    21300044: CPPRun_22
+    21300046: CPPRun_23
+    21300048: CPPRun_24
+    21300050: CPPRun_25
+    21300052: CPPRun_26
+    21300054: CPPRun_27
+    21300056: CPPRun_28
+    21300058: CPPRun_29
+    21300060: CPPRun_30
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 2
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 0
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 400
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CPPRun_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3505
+        width: 711
+        height: 701
+      alignment: 9
+      pivot: {x: 0.55, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPRun_1
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 3505
+        width: 711
+        height: 701
+      alignment: 9
+      pivot: {x: 0.55, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPRun_2
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 3505
+        width: 711
+        height: 701
+      alignment: 9
+      pivot: {x: 0.55, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPRun_3
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 3505
+        width: 711
+        height: 701
+      alignment: 9
+      pivot: {x: 0.55, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPRun_4
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 3505
+        width: 711
+        height: 701
+      alignment: 9
+      pivot: {x: 0.55, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPRun_5
+      rect:
+        serializedVersion: 2
+        x: 3555
+        y: 3505
+        width: 711
+        height: 701
+      alignment: 9
+      pivot: {x: 0.55, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPRun_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2804
+        width: 711
+        height: 701
+      alignment: 9
+      pivot: {x: 0.55, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPRun_7
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 2804
+        width: 711
+        height: 701
+      alignment: 9
+      pivot: {x: 0.55, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPRun_8
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 2804
+        width: 711
+        height: 701
+      alignment: 9
+      pivot: {x: 0.55, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPRun_9
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 2804
+        width: 711
+        height: 701
+      alignment: 9
+      pivot: {x: 0.55, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPRun_10
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 2804
+        width: 711
+        height: 701
+      alignment: 9
+      pivot: {x: 0.55, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPRun_11
+      rect:
+        serializedVersion: 2
+        x: 3555
+        y: 2804
+        width: 711
+        height: 701
+      alignment: 9
+      pivot: {x: 0.55, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPRun_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2103
+        width: 711
+        height: 701
+      alignment: 9
+      pivot: {x: 0.55, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPRun_13
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 2103
+        width: 711
+        height: 701
+      alignment: 9
+      pivot: {x: 0.55, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPRun_14
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 2103
+        width: 711
+        height: 701
+      alignment: 9
+      pivot: {x: 0.55, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPRun_15
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 2103
+        width: 711
+        height: 701
+      alignment: 9
+      pivot: {x: 0.55, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPRun_16
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 2103
+        width: 711
+        height: 701
+      alignment: 9
+      pivot: {x: 0.55, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPRun_17
+      rect:
+        serializedVersion: 2
+        x: 3555
+        y: 2103
+        width: 711
+        height: 701
+      alignment: 9
+      pivot: {x: 0.55, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPRun_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1402
+        width: 711
+        height: 701
+      alignment: 9
+      pivot: {x: 0.55, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPRun_19
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1402
+        width: 711
+        height: 701
+      alignment: 9
+      pivot: {x: 0.55, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPRun_20
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 1402
+        width: 711
+        height: 701
+      alignment: 9
+      pivot: {x: 0.55, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPRun_21
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 1402
+        width: 711
+        height: 701
+      alignment: 9
+      pivot: {x: 0.55, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPRun_22
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 1402
+        width: 711
+        height: 701
+      alignment: 9
+      pivot: {x: 0.55, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPRun_23
+      rect:
+        serializedVersion: 2
+        x: 3555
+        y: 1402
+        width: 711
+        height: 701
+      alignment: 9
+      pivot: {x: 0.55, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPRun_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 701
+        width: 711
+        height: 701
+      alignment: 9
+      pivot: {x: 0.55, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPRun_25
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 701
+        width: 711
+        height: 701
+      alignment: 9
+      pivot: {x: 0.55, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPRun_26
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 701
+        width: 711
+        height: 701
+      alignment: 9
+      pivot: {x: 0.55, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPRun_27
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 701
+        width: 711
+        height: 701
+      alignment: 9
+      pivot: {x: 0.55, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPRun_28
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 701
+        width: 711
+        height: 701
+      alignment: 9
+      pivot: {x: 0.55, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPRun_29
+      rect:
+        serializedVersion: 2
+        x: 3555
+        y: 701
+        width: 711
+        height: 701
+      alignment: 9
+      pivot: {x: 0.55, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPRun_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 711
+        height: 701
+      alignment: 9
+      pivot: {x: 0.55, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

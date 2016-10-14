@@ -1,0 +1,465 @@
+fileFormatVersion: 2
+guid: d1e9e992a1d4263428ebd867ad9c474c
+timeCreated: 1470167173
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: crinos_death_0
+    21300002: crinos_death_1
+    21300004: crinos_death_2
+    21300006: crinos_death_3
+    21300008: crinos_death_4
+    21300010: crinos_death_5
+    21300012: crinos_death_6
+    21300014: crinos_death_7
+    21300016: crinos_death_8
+    21300018: crinos_death_9
+    21300020: crinos_death_10
+    21300022: crinos_death_11
+    21300024: crinos_death_12
+    21300026: crinos_death_13
+    21300028: crinos_death_14
+    21300030: crinos_death_15
+    21300032: crinos_death_16
+    21300034: crinos_death_17
+    21300036: crinos_death_18
+    21300038: crinos_death_19
+    21300040: crinos_death_20
+    21300042: crinos_death_21
+    21300044: crinos_death_22
+    21300046: crinos_death_23
+    21300048: crinos_death_24
+    21300050: crinos_death_25
+    21300052: crinos_death_26
+    21300054: crinos_death_27
+    21300056: crinos_death_28
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 2
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 0
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 400
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crinos_death_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3104
+        width: 1646
+        height: 776
+      alignment: 9
+      pivot: {x: 0.17, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_death_1
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 3104
+        width: 1646
+        height: 776
+      alignment: 9
+      pivot: {x: 0.17, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_death_2
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 3104
+        width: 1646
+        height: 776
+      alignment: 9
+      pivot: {x: 0.17, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_death_3
+      rect:
+        serializedVersion: 2
+        x: 4938
+        y: 3104
+        width: 1646
+        height: 776
+      alignment: 9
+      pivot: {x: 0.17, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_death_4
+      rect:
+        serializedVersion: 2
+        x: 6584
+        y: 3104
+        width: 1646
+        height: 776
+      alignment: 9
+      pivot: {x: 0.17, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_death_5
+      rect:
+        serializedVersion: 2
+        x: 8230
+        y: 3104
+        width: 1646
+        height: 776
+      alignment: 9
+      pivot: {x: 0.17, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_death_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2328
+        width: 1646
+        height: 776
+      alignment: 9
+      pivot: {x: 0.17, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_death_7
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 2328
+        width: 1646
+        height: 776
+      alignment: 9
+      pivot: {x: 0.17, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_death_8
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 2328
+        width: 1646
+        height: 776
+      alignment: 9
+      pivot: {x: 0.17, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_death_9
+      rect:
+        serializedVersion: 2
+        x: 4938
+        y: 2328
+        width: 1646
+        height: 776
+      alignment: 9
+      pivot: {x: 0.17, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_death_10
+      rect:
+        serializedVersion: 2
+        x: 6584
+        y: 2328
+        width: 1646
+        height: 776
+      alignment: 9
+      pivot: {x: 0.17, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_death_11
+      rect:
+        serializedVersion: 2
+        x: 8230
+        y: 2328
+        width: 1646
+        height: 776
+      alignment: 9
+      pivot: {x: 0.17, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_death_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1552
+        width: 1646
+        height: 776
+      alignment: 9
+      pivot: {x: 0.17, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_death_13
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 1552
+        width: 1646
+        height: 776
+      alignment: 9
+      pivot: {x: 0.17, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_death_14
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 1552
+        width: 1646
+        height: 776
+      alignment: 9
+      pivot: {x: 0.17, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_death_15
+      rect:
+        serializedVersion: 2
+        x: 4938
+        y: 1552
+        width: 1646
+        height: 776
+      alignment: 9
+      pivot: {x: 0.17, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_death_16
+      rect:
+        serializedVersion: 2
+        x: 6584
+        y: 1552
+        width: 1646
+        height: 776
+      alignment: 9
+      pivot: {x: 0.17, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_death_17
+      rect:
+        serializedVersion: 2
+        x: 8230
+        y: 1552
+        width: 1646
+        height: 776
+      alignment: 9
+      pivot: {x: 0.17, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_death_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 776
+        width: 1646
+        height: 776
+      alignment: 9
+      pivot: {x: 0.17, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_death_19
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 776
+        width: 1646
+        height: 776
+      alignment: 9
+      pivot: {x: 0.17, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_death_20
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 776
+        width: 1646
+        height: 776
+      alignment: 9
+      pivot: {x: 0.17, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_death_21
+      rect:
+        serializedVersion: 2
+        x: 4938
+        y: 776
+        width: 1646
+        height: 776
+      alignment: 9
+      pivot: {x: 0.17, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_death_22
+      rect:
+        serializedVersion: 2
+        x: 6584
+        y: 776
+        width: 1646
+        height: 776
+      alignment: 9
+      pivot: {x: 0.17, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_death_23
+      rect:
+        serializedVersion: 2
+        x: 8230
+        y: 776
+        width: 1646
+        height: 776
+      alignment: 9
+      pivot: {x: 0.17, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_death_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1646
+        height: 776
+      alignment: 9
+      pivot: {x: 0.17, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_death_25
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 0
+        width: 1646
+        height: 776
+      alignment: 9
+      pivot: {x: 0.17, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_death_26
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 0
+        width: 1646
+        height: 776
+      alignment: 9
+      pivot: {x: 0.17, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_death_27
+      rect:
+        serializedVersion: 2
+        x: 4938
+        y: 0
+        width: 1646
+        height: 776
+      alignment: 9
+      pivot: {x: 0.17, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_death_28
+      rect:
+        serializedVersion: 2
+        x: 6584
+        y: 0
+        width: 1646
+        height: 776
+      alignment: 9
+      pivot: {x: 0.17, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

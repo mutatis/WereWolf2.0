@@ -1,0 +1,358 @@
+fileFormatVersion: 2
+guid: 44b868077d176784f9f212a4d2efae14
+labels:
+- Andarilho
+- Uivo
+timeCreated: 1465314028
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: howldown_0
+    21300002: howldown_1
+    21300004: howldown_2
+    21300006: howldown_3
+    21300008: howldown_4
+    21300010: howldown_5
+    21300012: howldown_6
+    21300014: howldown_7
+    21300016: howldown_8
+    21300018: howldown_9
+    21300020: howldown_10
+    21300022: howldown_11
+    21300024: howldown_12
+    21300026: howldown_13
+    21300028: howldown_14
+    21300030: howldown_15
+    21300032: howldown_16
+    21300034: howldown_17
+    21300036: howldown_18
+    21300038: howldown_19
+    21300040: howldown_20
+    21300042: howldown_21
+    21300044: howldown_22
+    21300046: howldown_23
+    21300048: howldown_24
+    21300050: howldown_25
+    21300052: howldown_26
+    21300054: howldown_27
+    21300056: howldown_28
+    21300058: howldown_29
+    21300060: howldown_30
+    21300062: howldown_31
+    21300064: howldown_32
+    21300066: howldown_33
+    21300068: howldown_34
+    21300070: howldown_35
+    21300072: howldown_36
+    21300074: howldown_37
+    21300076: howldown_38
+    21300078: howldown_39
+    21300080: howldown_40
+    21300082: howldown_41
+    21300084: howldown_42
+    21300086: howldown_43
+    21300088: howldown_44
+    21300090: howldown_45
+    21300092: howldown_46
+    21300094: howldown_47
+    21300096: howldown_48
+    21300098: howldown_49
+    21300100: howldown_50
+    21300102: howldown_51
+    21300104: howldown_52
+    21300106: howldown_53
+    21300108: howldown_54
+    21300110: howldown_55
+    21300112: howldown_56
+    21300114: howldown_57
+    21300116: howldown_58
+    21300118: howldown_59
+    21300120: howldown_60
+    21300122: howldown_61
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 0
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 500
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: howldown_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1773
+        width: 510
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: howldown_1
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1773
+        width: 510
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: howldown_2
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1773
+        width: 510
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: howldown_3
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1773
+        width: 510
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: howldown_4
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1773
+        width: 510
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: howldown_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1182
+        width: 510
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: howldown_6
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1182
+        width: 510
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: howldown_7
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1182
+        width: 510
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: howldown_8
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1182
+        width: 510
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: howldown_9
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1182
+        width: 510
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: howldown_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 591
+        width: 510
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: howldown_11
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 591
+        width: 510
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: howldown_12
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 591
+        width: 510
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: howldown_13
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 591
+        width: 510
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: howldown_14
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 591
+        width: 510
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: howldown_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 510
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: howldown_16
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 0
+        width: 510
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: howldown_17
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 0
+        width: 510
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

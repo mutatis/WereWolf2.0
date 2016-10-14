@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: a5f74ddf6ce04304aa9f546de205354e
+timeCreated: 1473429651
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hitcostas_0
+    21300002: hitcostas_1
+    21300004: hitcostas_2
+    21300006: hitcostas_3
+    21300008: hitcostas_4
+    21300010: hitcostas_5
+    21300012: hitcostas_6
+    21300014: hitcostas_7
+    21300016: hitcostas_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 0
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 450
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hitcostas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1374
+        width: 490
+        height: 687
+      alignment: 9
+      pivot: {x: 0.61, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hitcostas_1
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1374
+        width: 490
+        height: 687
+      alignment: 9
+      pivot: {x: 0.61, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hitcostas_2
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1374
+        width: 490
+        height: 687
+      alignment: 9
+      pivot: {x: 0.61, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hitcostas_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 687
+        width: 490
+        height: 687
+      alignment: 9
+      pivot: {x: 0.61, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hitcostas_4
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 687
+        width: 490
+        height: 687
+      alignment: 9
+      pivot: {x: 0.61, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hitcostas_5
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 687
+        width: 490
+        height: 687
+      alignment: 9
+      pivot: {x: 0.61, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hitcostas_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 490
+        height: 687
+      alignment: 9
+      pivot: {x: 0.61, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hitcostas_7
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 490
+        height: 687
+      alignment: 9
+      pivot: {x: 0.61, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hitcostas_8
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 0
+        width: 490
+        height: 687
+      alignment: 9
+      pivot: {x: 0.61, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,395 @@
+fileFormatVersion: 2
+guid: f91d5e530397a504b90805c9032b9bff
+timeCreated: 1473688438
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Spiral_T4_ChargeAttack_0
+    21300002: Spiral_T4_ChargeAttack_1
+    21300004: Spiral_T4_ChargeAttack_2
+    21300006: Spiral_T4_ChargeAttack_3
+    21300008: Spiral_T4_ChargeAttack_4
+    21300010: Spiral_T4_ChargeAttack_5
+    21300012: Spiral_T4_ChargeAttack_6
+    21300014: Spiral_T4_ChargeAttack_7
+    21300016: Spiral_T4_ChargeAttack_8
+    21300018: Spiral_T4_ChargeAttack_9
+    21300020: Spiral_T4_ChargeAttack_10
+    21300022: Spiral_T4_ChargeAttack_11
+    21300024: Spiral_T4_ChargeAttack_12
+    21300026: Spiral_T4_ChargeAttack_13
+    21300028: Spiral_T4_ChargeAttack_14
+    21300030: Spiral_T4_ChargeAttack_15
+    21300032: Spiral_T4_ChargeAttack_16
+    21300034: Spiral_T4_ChargeAttack_17
+    21300036: Spiral_T4_ChargeAttack_18
+    21300038: Spiral_T4_ChargeAttack_19
+    21300040: Spiral_T4_ChargeAttack_20
+    21300042: Spiral_T4_ChargeAttack_21
+    21300044: Spiral_T4_ChargeAttack_22
+    21300046: Spiral_T4_ChargeAttack_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 2
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 0
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 400
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spiral_T4_ChargeAttack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2247
+        width: 1253
+        height: 749
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T4_ChargeAttack_1
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 2247
+        width: 1253
+        height: 749
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T4_ChargeAttack_2
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 2247
+        width: 1253
+        height: 749
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T4_ChargeAttack_3
+      rect:
+        serializedVersion: 2
+        x: 3759
+        y: 2247
+        width: 1253
+        height: 749
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T4_ChargeAttack_4
+      rect:
+        serializedVersion: 2
+        x: 5012
+        y: 2247
+        width: 1253
+        height: 749
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T4_ChargeAttack_5
+      rect:
+        serializedVersion: 2
+        x: 6265
+        y: 2247
+        width: 1253
+        height: 749
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T4_ChargeAttack_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1498
+        width: 1253
+        height: 749
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T4_ChargeAttack_7
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 1498
+        width: 1253
+        height: 749
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T4_ChargeAttack_8
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 1498
+        width: 1253
+        height: 749
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T4_ChargeAttack_9
+      rect:
+        serializedVersion: 2
+        x: 3759
+        y: 1498
+        width: 1253
+        height: 749
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T4_ChargeAttack_10
+      rect:
+        serializedVersion: 2
+        x: 5012
+        y: 1498
+        width: 1253
+        height: 749
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T4_ChargeAttack_11
+      rect:
+        serializedVersion: 2
+        x: 6265
+        y: 1498
+        width: 1253
+        height: 749
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T4_ChargeAttack_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 749
+        width: 1253
+        height: 749
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T4_ChargeAttack_13
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 749
+        width: 1253
+        height: 749
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T4_ChargeAttack_14
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 749
+        width: 1253
+        height: 749
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T4_ChargeAttack_15
+      rect:
+        serializedVersion: 2
+        x: 3759
+        y: 749
+        width: 1253
+        height: 749
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T4_ChargeAttack_16
+      rect:
+        serializedVersion: 2
+        x: 5012
+        y: 749
+        width: 1253
+        height: 749
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T4_ChargeAttack_17
+      rect:
+        serializedVersion: 2
+        x: 6265
+        y: 749
+        width: 1253
+        height: 749
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T4_ChargeAttack_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1253
+        height: 749
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T4_ChargeAttack_19
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 0
+        width: 1253
+        height: 749
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T4_ChargeAttack_20
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 0
+        width: 1253
+        height: 749
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T4_ChargeAttack_21
+      rect:
+        serializedVersion: 2
+        x: 3759
+        y: 0
+        width: 1253
+        height: 749
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T4_ChargeAttack_22
+      rect:
+        serializedVersion: 2
+        x: 5012
+        y: 0
+        width: 1253
+        height: 749
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T4_ChargeAttack_23
+      rect:
+        serializedVersion: 2
+        x: 6265
+        y: 0
+        width: 1253
+        height: 749
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

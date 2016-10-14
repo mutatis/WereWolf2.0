@@ -1,0 +1,493 @@
+fileFormatVersion: 2
+guid: 0e23a49adde3463449a04ffe85825eac
+timeCreated: 1474558243
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CPPMorte2_0
+    21300002: CPPMorte2_1
+    21300004: CPPMorte2_2
+    21300006: CPPMorte2_3
+    21300008: CPPMorte2_4
+    21300010: CPPMorte2_5
+    21300012: CPPMorte2_6
+    21300014: CPPMorte2_7
+    21300016: CPPMorte2_8
+    21300018: CPPMorte2_9
+    21300020: CPPMorte2_10
+    21300022: CPPMorte2_11
+    21300024: CPPMorte2_12
+    21300026: CPPMorte2_13
+    21300028: CPPMorte2_14
+    21300030: CPPMorte2_15
+    21300032: CPPMorte2_16
+    21300034: CPPMorte2_17
+    21300036: CPPMorte2_18
+    21300038: CPPMorte2_19
+    21300040: CPPMorte2_20
+    21300042: CPPMorte2_21
+    21300044: CPPMorte2_22
+    21300046: CPPMorte2_23
+    21300048: CPPMorte2_24
+    21300050: CPPMorte2_25
+    21300052: CPPMorte2_26
+    21300054: CPPMorte2_27
+    21300056: CPPMorte2_28
+    21300058: CPPMorte2_29
+    21300060: CPPMorte2_30
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 2
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 0
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 400
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CPPMorte2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5590
+        width: 1093
+        height: 1118
+      alignment: 9
+      pivot: {x: 0.7, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPMorte2_1
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 5590
+        width: 1093
+        height: 1118
+      alignment: 9
+      pivot: {x: 0.7, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPMorte2_2
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 5590
+        width: 1093
+        height: 1118
+      alignment: 9
+      pivot: {x: 0.7, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPMorte2_3
+      rect:
+        serializedVersion: 2
+        x: 3279
+        y: 5590
+        width: 1093
+        height: 1118
+      alignment: 9
+      pivot: {x: 0.7, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPMorte2_4
+      rect:
+        serializedVersion: 2
+        x: 4372
+        y: 5590
+        width: 1093
+        height: 1118
+      alignment: 9
+      pivot: {x: 0.7, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPMorte2_5
+      rect:
+        serializedVersion: 2
+        x: 5465
+        y: 5590
+        width: 1093
+        height: 1118
+      alignment: 9
+      pivot: {x: 0.7, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPMorte2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4472
+        width: 1093
+        height: 1118
+      alignment: 9
+      pivot: {x: 0.7, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPMorte2_7
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 4472
+        width: 1093
+        height: 1118
+      alignment: 9
+      pivot: {x: 0.7, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPMorte2_8
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 4472
+        width: 1093
+        height: 1118
+      alignment: 9
+      pivot: {x: 0.7, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPMorte2_9
+      rect:
+        serializedVersion: 2
+        x: 3279
+        y: 4472
+        width: 1093
+        height: 1118
+      alignment: 9
+      pivot: {x: 0.7, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPMorte2_10
+      rect:
+        serializedVersion: 2
+        x: 4372
+        y: 4472
+        width: 1093
+        height: 1118
+      alignment: 9
+      pivot: {x: 0.7, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPMorte2_11
+      rect:
+        serializedVersion: 2
+        x: 5465
+        y: 4472
+        width: 1093
+        height: 1118
+      alignment: 9
+      pivot: {x: 0.7, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPMorte2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3354
+        width: 1093
+        height: 1118
+      alignment: 9
+      pivot: {x: 0.7, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPMorte2_13
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 3354
+        width: 1093
+        height: 1118
+      alignment: 9
+      pivot: {x: 0.7, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPMorte2_14
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 3354
+        width: 1093
+        height: 1118
+      alignment: 9
+      pivot: {x: 0.7, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPMorte2_15
+      rect:
+        serializedVersion: 2
+        x: 3279
+        y: 3354
+        width: 1093
+        height: 1118
+      alignment: 9
+      pivot: {x: 0.7, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPMorte2_16
+      rect:
+        serializedVersion: 2
+        x: 4372
+        y: 3354
+        width: 1093
+        height: 1118
+      alignment: 9
+      pivot: {x: 0.7, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPMorte2_17
+      rect:
+        serializedVersion: 2
+        x: 5465
+        y: 3354
+        width: 1093
+        height: 1118
+      alignment: 9
+      pivot: {x: 0.7, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPMorte2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2236
+        width: 1093
+        height: 1118
+      alignment: 9
+      pivot: {x: 0.7, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPMorte2_19
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 2236
+        width: 1093
+        height: 1118
+      alignment: 9
+      pivot: {x: 0.7, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPMorte2_20
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 2236
+        width: 1093
+        height: 1118
+      alignment: 9
+      pivot: {x: 0.7, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPMorte2_21
+      rect:
+        serializedVersion: 2
+        x: 3279
+        y: 2236
+        width: 1093
+        height: 1118
+      alignment: 9
+      pivot: {x: 0.7, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPMorte2_22
+      rect:
+        serializedVersion: 2
+        x: 4372
+        y: 2236
+        width: 1093
+        height: 1118
+      alignment: 9
+      pivot: {x: 0.7, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPMorte2_23
+      rect:
+        serializedVersion: 2
+        x: 5465
+        y: 2236
+        width: 1093
+        height: 1118
+      alignment: 9
+      pivot: {x: 0.7, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPMorte2_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1118
+        width: 1093
+        height: 1118
+      alignment: 9
+      pivot: {x: 0.7, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPMorte2_25
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1118
+        width: 1093
+        height: 1118
+      alignment: 9
+      pivot: {x: 0.7, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPMorte2_26
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 1118
+        width: 1093
+        height: 1118
+      alignment: 9
+      pivot: {x: 0.7, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPMorte2_27
+      rect:
+        serializedVersion: 2
+        x: 3279
+        y: 1118
+        width: 1093
+        height: 1118
+      alignment: 9
+      pivot: {x: 0.7, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPMorte2_28
+      rect:
+        serializedVersion: 2
+        x: 4372
+        y: 1118
+        width: 1093
+        height: 1118
+      alignment: 9
+      pivot: {x: 0.7, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPMorte2_29
+      rect:
+        serializedVersion: 2
+        x: 5465
+        y: 1118
+        width: 1093
+        height: 1118
+      alignment: 9
+      pivot: {x: 0.7, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPMorte2_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1093
+        height: 1118
+      alignment: 9
+      pivot: {x: 0.7, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,683 @@
+fileFormatVersion: 2
+guid: 75f4bfffefa83bf48887dc776cb3a7f2
+labels:
+- Andarilho
+- Uivo
+timeCreated: 1465314010
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: HowlUp_0
+    21300002: HowlUp_1
+    21300004: HowlUp_2
+    21300006: HowlUp_3
+    21300008: HowlUp_4
+    21300010: HowlUp_5
+    21300012: HowlUp_6
+    21300014: HowlUp_7
+    21300016: HowlUp_8
+    21300018: HowlUp_9
+    21300020: HowlUp_10
+    21300022: HowlUp_11
+    21300024: HowlUp_12
+    21300026: HowlUp_13
+    21300028: HowlUp_14
+    21300030: HowlUp_15
+    21300032: HowlUp_16
+    21300034: HowlUp_17
+    21300036: HowlUp_18
+    21300038: HowlUp_19
+    21300040: HowlUp_20
+    21300042: HowlUp_21
+    21300044: HowlUp_22
+    21300046: HowlUp_23
+    21300048: HowlUp_24
+    21300050: HowlUp_25
+    21300052: HowlUp_26
+    21300054: HowlUp_27
+    21300056: HowlUp_28
+    21300058: HowlUp_29
+    21300060: HowlUp_30
+    21300062: HowlUp_31
+    21300064: HowlUp_32
+    21300066: HowlUp_33
+    21300068: HowlUp_34
+    21300070: HowlUp_35
+    21300072: HowlUp_36
+    21300074: HowlUp_37
+    21300076: HowlUp_38
+    21300078: HowlUp_39
+    21300080: HowlUp_40
+    21300082: HowlUp_41
+    21300084: HowlUp_42
+    21300086: HowlUp_43
+    21300088: HowlUp_44
+    21300090: HowlUp_45
+    21300092: HowlUp_46
+    21300094: HowlUp_47
+    21300096: HowlUp_48
+    21300098: HowlUp_49
+    21300100: HowlUp_50
+    21300102: HowlUp_51
+    21300104: HowlUp_52
+    21300106: HowlUp_53
+    21300108: HowlUp_54
+    21300110: HowlUp_55
+    21300112: HowlUp_56
+    21300114: HowlUp_57
+    21300116: HowlUp_58
+    21300118: HowlUp_59
+    21300120: HowlUp_60
+    21300122: HowlUp_61
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 2
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 0
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 500
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HowlUp_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5096
+        width: 489
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HowlUp_1
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 5096
+        width: 489
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HowlUp_2
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 5096
+        width: 489
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HowlUp_3
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 5096
+        width: 489
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HowlUp_4
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 5096
+        width: 489
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HowlUp_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4459
+        width: 489
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HowlUp_6
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 4459
+        width: 489
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HowlUp_7
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 4459
+        width: 489
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HowlUp_8
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 4459
+        width: 489
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HowlUp_9
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 4459
+        width: 489
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HowlUp_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3822
+        width: 489
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HowlUp_11
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 3822
+        width: 489
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HowlUp_12
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 3822
+        width: 489
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HowlUp_13
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 3822
+        width: 489
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HowlUp_14
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 3822
+        width: 489
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HowlUp_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3185
+        width: 489
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HowlUp_16
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 3185
+        width: 489
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HowlUp_17
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 3185
+        width: 489
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HowlUp_18
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 3185
+        width: 489
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HowlUp_19
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 3185
+        width: 489
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HowlUp_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2548
+        width: 489
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HowlUp_21
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 2548
+        width: 489
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HowlUp_22
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 2548
+        width: 489
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HowlUp_23
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 2548
+        width: 489
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HowlUp_24
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 2548
+        width: 489
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HowlUp_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1911
+        width: 489
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HowlUp_26
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1911
+        width: 489
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HowlUp_27
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1911
+        width: 489
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HowlUp_28
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 1911
+        width: 489
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HowlUp_29
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 1911
+        width: 489
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HowlUp_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1274
+        width: 489
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HowlUp_31
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1274
+        width: 489
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HowlUp_32
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1274
+        width: 489
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HowlUp_33
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 1274
+        width: 489
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HowlUp_34
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 1274
+        width: 489
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HowlUp_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 637
+        width: 489
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HowlUp_36
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 637
+        width: 489
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HowlUp_37
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 637
+        width: 489
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HowlUp_38
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 637
+        width: 489
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HowlUp_39
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 637
+        width: 489
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HowlUp_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 489
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HowlUp_41
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 0
+        width: 489
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HowlUp_42
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 0
+        width: 489
+        height: 637
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

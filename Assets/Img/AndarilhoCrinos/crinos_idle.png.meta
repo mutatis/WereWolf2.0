@@ -1,0 +1,511 @@
+fileFormatVersion: 2
+guid: ef85dc58455cf3d47b35ce2dda7f86a3
+labels:
+- Andarilho
+- Crinos
+- Idle
+timeCreated: 1470065233
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: crinos_idle_0
+    21300002: crinos_idle_1
+    21300004: crinos_idle_2
+    21300006: crinos_idle_3
+    21300008: crinos_idle_4
+    21300010: crinos_idle_5
+    21300012: crinos_idle_6
+    21300014: crinos_idle_7
+    21300016: crinos_idle_8
+    21300018: crinos_idle_9
+    21300020: crinos_idle_10
+    21300022: crinos_idle_11
+    21300024: crinos_idle_12
+    21300026: crinos_idle_13
+    21300028: crinos_idle_14
+    21300030: crinos_idle_15
+    21300032: crinos_idle_16
+    21300034: crinos_idle_17
+    21300036: crinos_idle_18
+    21300038: crinos_idle_19
+    21300040: crinos_idle_20
+    21300042: crinos_idle_21
+    21300044: crinos_idle_22
+    21300046: crinos_idle_23
+    21300048: crinos_idle_24
+    21300050: crinos_idle_25
+    21300052: crinos_idle_26
+    21300054: crinos_idle_27
+    21300056: crinos_idle_28
+    21300058: crinos_idle_29
+    21300060: crinos_idle_30
+    21300062: crinos_idle_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 0
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 400
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crinos_idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3155
+        width: 625
+        height: 631
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_idle_1
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 3155
+        width: 625
+        height: 631
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_idle_2
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 3155
+        width: 625
+        height: 631
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_idle_3
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 3155
+        width: 625
+        height: 631
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_idle_4
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3155
+        width: 625
+        height: 631
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_idle_5
+      rect:
+        serializedVersion: 2
+        x: 3125
+        y: 3155
+        width: 625
+        height: 631
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_idle_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2524
+        width: 625
+        height: 631
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_idle_7
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 2524
+        width: 625
+        height: 631
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_idle_8
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 2524
+        width: 625
+        height: 631
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_idle_9
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 2524
+        width: 625
+        height: 631
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_idle_10
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2524
+        width: 625
+        height: 631
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_idle_11
+      rect:
+        serializedVersion: 2
+        x: 3125
+        y: 2524
+        width: 625
+        height: 631
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_idle_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1893
+        width: 625
+        height: 631
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_idle_13
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1893
+        width: 625
+        height: 631
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_idle_14
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1893
+        width: 625
+        height: 631
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_idle_15
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1893
+        width: 625
+        height: 631
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_idle_16
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1893
+        width: 625
+        height: 631
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_idle_17
+      rect:
+        serializedVersion: 2
+        x: 3125
+        y: 1893
+        width: 625
+        height: 631
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_idle_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1262
+        width: 625
+        height: 631
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_idle_19
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1262
+        width: 625
+        height: 631
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_idle_20
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1262
+        width: 625
+        height: 631
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_idle_21
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1262
+        width: 625
+        height: 631
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_idle_22
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1262
+        width: 625
+        height: 631
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_idle_23
+      rect:
+        serializedVersion: 2
+        x: 3125
+        y: 1262
+        width: 625
+        height: 631
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_idle_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 631
+        width: 625
+        height: 631
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_idle_25
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 631
+        width: 625
+        height: 631
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_idle_26
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 631
+        width: 625
+        height: 631
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_idle_27
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 631
+        width: 625
+        height: 631
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_idle_28
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 631
+        width: 625
+        height: 631
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_idle_29
+      rect:
+        serializedVersion: 2
+        x: 3125
+        y: 631
+        width: 625
+        height: 631
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_idle_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 625
+        height: 631
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crinos_idle_31
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 0
+        width: 625
+        height: 631
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

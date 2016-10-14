@@ -1,0 +1,395 @@
+fileFormatVersion: 2
+guid: 7dcfdc7725d624d48acd432e5892bc8a
+timeCreated: 1473449062
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Spiral_T2_Idle_0
+    21300002: Spiral_T2_Idle_1
+    21300004: Spiral_T2_Idle_2
+    21300006: Spiral_T2_Idle_3
+    21300008: Spiral_T2_Idle_4
+    21300010: Spiral_T2_Idle_5
+    21300012: Spiral_T2_Idle_6
+    21300014: Spiral_T2_Idle_7
+    21300016: Spiral_T2_Idle_8
+    21300018: Spiral_T2_Idle_9
+    21300020: Spiral_T2_Idle_10
+    21300022: Spiral_T2_Idle_11
+    21300024: Spiral_T2_Idle_12
+    21300026: Spiral_T2_Idle_13
+    21300028: Spiral_T2_Idle_14
+    21300030: Spiral_T2_Idle_15
+    21300032: Spiral_T2_Idle_16
+    21300034: Spiral_T2_Idle_17
+    21300036: Spiral_T2_Idle_18
+    21300038: Spiral_T2_Idle_19
+    21300040: Spiral_T2_Idle_20
+    21300042: Spiral_T2_Idle_21
+    21300044: Spiral_T2_Idle_22
+    21300046: Spiral_T2_Idle_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 2
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 0
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 400
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spiral_T2_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2457
+        width: 862
+        height: 819
+      alignment: 9
+      pivot: {x: 0.55, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 2457
+        width: 862
+        height: 819
+      alignment: 9
+      pivot: {x: 0.55, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 2457
+        width: 862
+        height: 819
+      alignment: 9
+      pivot: {x: 0.55, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 2457
+        width: 862
+        height: 819
+      alignment: 9
+      pivot: {x: 0.55, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 2457
+        width: 862
+        height: 819
+      alignment: 9
+      pivot: {x: 0.55, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 4310
+        y: 2457
+        width: 862
+        height: 819
+      alignment: 9
+      pivot: {x: 0.55, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1638
+        width: 862
+        height: 819
+      alignment: 9
+      pivot: {x: 0.55, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1638
+        width: 862
+        height: 819
+      alignment: 9
+      pivot: {x: 0.55, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1638
+        width: 862
+        height: 819
+      alignment: 9
+      pivot: {x: 0.55, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 1638
+        width: 862
+        height: 819
+      alignment: 9
+      pivot: {x: 0.55, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 1638
+        width: 862
+        height: 819
+      alignment: 9
+      pivot: {x: 0.55, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 4310
+        y: 1638
+        width: 862
+        height: 819
+      alignment: 9
+      pivot: {x: 0.55, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 819
+        width: 862
+        height: 819
+      alignment: 9
+      pivot: {x: 0.55, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 819
+        width: 862
+        height: 819
+      alignment: 9
+      pivot: {x: 0.55, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 819
+        width: 862
+        height: 819
+      alignment: 9
+      pivot: {x: 0.55, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 819
+        width: 862
+        height: 819
+      alignment: 9
+      pivot: {x: 0.55, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 819
+        width: 862
+        height: 819
+      alignment: 9
+      pivot: {x: 0.55, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 4310
+        y: 819
+        width: 862
+        height: 819
+      alignment: 9
+      pivot: {x: 0.55, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 862
+        height: 819
+      alignment: 9
+      pivot: {x: 0.55, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 0
+        width: 862
+        height: 819
+      alignment: 9
+      pivot: {x: 0.55, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 0
+        width: 862
+        height: 819
+      alignment: 9
+      pivot: {x: 0.55, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 0
+        width: 862
+        height: 819
+      alignment: 9
+      pivot: {x: 0.55, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 3448
+        y: 0
+        width: 862
+        height: 819
+      alignment: 9
+      pivot: {x: 0.55, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spiral_T2_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 4310
+        y: 0
+        width: 862
+        height: 819
+      alignment: 9
+      pivot: {x: 0.55, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

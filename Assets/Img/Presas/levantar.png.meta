@@ -1,0 +1,493 @@
+fileFormatVersion: 2
+guid: bc9d0fa486b75a04f9fc72533e6e23aa
+timeCreated: 1473786060
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: levantar_0
+    21300002: levantar_1
+    21300004: levantar_2
+    21300006: levantar_3
+    21300008: levantar_4
+    21300010: levantar_5
+    21300012: levantar_6
+    21300014: levantar_7
+    21300016: levantar_8
+    21300018: levantar_9
+    21300020: levantar_10
+    21300022: levantar_11
+    21300024: levantar_12
+    21300026: levantar_13
+    21300028: levantar_14
+    21300030: levantar_15
+    21300032: levantar_16
+    21300034: levantar_17
+    21300036: levantar_18
+    21300038: levantar_19
+    21300040: levantar_20
+    21300042: levantar_21
+    21300044: levantar_22
+    21300046: levantar_23
+    21300048: levantar_24
+    21300050: levantar_25
+    21300052: levantar_26
+    21300054: levantar_27
+    21300056: levantar_28
+    21300058: levantar_29
+    21300060: levantar_30
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 2
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 0
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 450
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: levantar_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3685
+        width: 710
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levantar_1
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 3685
+        width: 710
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levantar_2
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 3685
+        width: 710
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levantar_3
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 3685
+        width: 710
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levantar_4
+      rect:
+        serializedVersion: 2
+        x: 2840
+        y: 3685
+        width: 710
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levantar_5
+      rect:
+        serializedVersion: 2
+        x: 3550
+        y: 3685
+        width: 710
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levantar_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2948
+        width: 710
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levantar_7
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 2948
+        width: 710
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levantar_8
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 2948
+        width: 710
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levantar_9
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 2948
+        width: 710
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levantar_10
+      rect:
+        serializedVersion: 2
+        x: 2840
+        y: 2948
+        width: 710
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levantar_11
+      rect:
+        serializedVersion: 2
+        x: 3550
+        y: 2948
+        width: 710
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levantar_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2211
+        width: 710
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levantar_13
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 2211
+        width: 710
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levantar_14
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 2211
+        width: 710
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levantar_15
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 2211
+        width: 710
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levantar_16
+      rect:
+        serializedVersion: 2
+        x: 2840
+        y: 2211
+        width: 710
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levantar_17
+      rect:
+        serializedVersion: 2
+        x: 3550
+        y: 2211
+        width: 710
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levantar_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1474
+        width: 710
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levantar_19
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1474
+        width: 710
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levantar_20
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1474
+        width: 710
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levantar_21
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 1474
+        width: 710
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levantar_22
+      rect:
+        serializedVersion: 2
+        x: 2840
+        y: 1474
+        width: 710
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levantar_23
+      rect:
+        serializedVersion: 2
+        x: 3550
+        y: 1474
+        width: 710
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levantar_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 737
+        width: 710
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levantar_25
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 737
+        width: 710
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levantar_26
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 737
+        width: 710
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levantar_27
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 737
+        width: 710
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levantar_28
+      rect:
+        serializedVersion: 2
+        x: 2840
+        y: 737
+        width: 710
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levantar_29
+      rect:
+        serializedVersion: 2
+        x: 3550
+        y: 737
+        width: 710
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: levantar_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 710
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

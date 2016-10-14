@@ -1,0 +1,398 @@
+fileFormatVersion: 2
+guid: e459d9e1512f3ab47be7bb5170390edc
+labels:
+- Andarilho
+- Block
+timeCreated: 1469548775
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: block_activate_0
+    21300002: block_activate_1
+    21300004: block_activate_2
+    21300006: block_activate_3
+    21300008: block_activate_4
+    21300010: block_activate_5
+    21300012: block_activate_6
+    21300014: block_activate_7
+    21300016: block_activate_8
+    21300018: block_activate_9
+    21300020: block_activate_10
+    21300022: block_activate_11
+    21300024: block_activate_12
+    21300026: block_activate_13
+    21300028: block_activate_14
+    21300030: block_activate_15
+    21300032: block_activate_16
+    21300034: block_activate_17
+    21300036: block_activate_18
+    21300038: block_activate_19
+    21300040: block_activate_20
+    21300042: block_activate_21
+    21300044: block_activate_22
+    21300046: block_activate_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 0
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 500
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: block_activate_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1830
+        width: 291
+        height: 610
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: block_activate_1
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1830
+        width: 291
+        height: 610
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: block_activate_2
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1830
+        width: 291
+        height: 610
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: block_activate_3
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1830
+        width: 291
+        height: 610
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: block_activate_4
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1830
+        width: 291
+        height: 610
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: block_activate_5
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 1830
+        width: 291
+        height: 610
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: block_activate_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1220
+        width: 291
+        height: 610
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: block_activate_7
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1220
+        width: 291
+        height: 610
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: block_activate_8
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1220
+        width: 291
+        height: 610
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: block_activate_9
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1220
+        width: 291
+        height: 610
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: block_activate_10
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1220
+        width: 291
+        height: 610
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: block_activate_11
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 1220
+        width: 291
+        height: 610
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: block_activate_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 610
+        width: 291
+        height: 610
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: block_activate_13
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 610
+        width: 291
+        height: 610
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: block_activate_14
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 610
+        width: 291
+        height: 610
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: block_activate_15
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 610
+        width: 291
+        height: 610
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: block_activate_16
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 610
+        width: 291
+        height: 610
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: block_activate_17
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 610
+        width: 291
+        height: 610
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: block_activate_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 291
+        height: 610
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: block_activate_19
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 0
+        width: 291
+        height: 610
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: block_activate_20
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 0
+        width: 291
+        height: 610
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: block_activate_21
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 0
+        width: 291
+        height: 610
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: block_activate_22
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 0
+        width: 291
+        height: 610
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: block_activate_23
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 0
+        width: 291
+        height: 610
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

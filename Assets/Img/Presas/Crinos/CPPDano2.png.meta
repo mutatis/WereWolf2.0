@@ -1,0 +1,493 @@
+fileFormatVersion: 2
+guid: 0a1d7839071763e498203bf4f9047695
+timeCreated: 1473958063
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CPPDano2_0
+    21300002: CPPDano2_1
+    21300004: CPPDano2_2
+    21300006: CPPDano2_3
+    21300008: CPPDano2_4
+    21300010: CPPDano2_5
+    21300012: CPPDano2_6
+    21300014: CPPDano2_7
+    21300016: CPPDano2_8
+    21300018: CPPDano2_9
+    21300020: CPPDano2_10
+    21300022: CPPDano2_11
+    21300024: CPPDano2_12
+    21300026: CPPDano2_13
+    21300028: CPPDano2_14
+    21300030: CPPDano2_15
+    21300032: CPPDano2_16
+    21300034: CPPDano2_17
+    21300036: CPPDano2_18
+    21300038: CPPDano2_19
+    21300040: CPPDano2_20
+    21300042: CPPDano2_21
+    21300044: CPPDano2_22
+    21300046: CPPDano2_23
+    21300048: CPPDano2_24
+    21300050: CPPDano2_25
+    21300052: CPPDano2_26
+    21300054: CPPDano2_27
+    21300056: CPPDano2_28
+    21300058: CPPDano2_29
+    21300060: CPPDano2_30
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 2
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 0
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 400
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CPPDano2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3870
+        width: 647
+        height: 774
+      alignment: 9
+      pivot: {x: 0.52, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPDano2_1
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 3870
+        width: 647
+        height: 774
+      alignment: 9
+      pivot: {x: 0.52, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPDano2_2
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 3870
+        width: 647
+        height: 774
+      alignment: 9
+      pivot: {x: 0.52, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPDano2_3
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 3870
+        width: 647
+        height: 774
+      alignment: 9
+      pivot: {x: 0.52, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPDano2_4
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 3870
+        width: 647
+        height: 774
+      alignment: 9
+      pivot: {x: 0.52, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPDano2_5
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 3870
+        width: 647
+        height: 774
+      alignment: 9
+      pivot: {x: 0.52, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPDano2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3096
+        width: 647
+        height: 774
+      alignment: 9
+      pivot: {x: 0.52, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPDano2_7
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 3096
+        width: 647
+        height: 774
+      alignment: 9
+      pivot: {x: 0.52, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPDano2_8
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 3096
+        width: 647
+        height: 774
+      alignment: 9
+      pivot: {x: 0.52, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPDano2_9
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 3096
+        width: 647
+        height: 774
+      alignment: 9
+      pivot: {x: 0.52, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPDano2_10
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 3096
+        width: 647
+        height: 774
+      alignment: 9
+      pivot: {x: 0.52, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPDano2_11
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 3096
+        width: 647
+        height: 774
+      alignment: 9
+      pivot: {x: 0.52, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPDano2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2322
+        width: 647
+        height: 774
+      alignment: 9
+      pivot: {x: 0.52, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPDano2_13
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 2322
+        width: 647
+        height: 774
+      alignment: 9
+      pivot: {x: 0.52, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPDano2_14
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 2322
+        width: 647
+        height: 774
+      alignment: 9
+      pivot: {x: 0.52, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPDano2_15
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 2322
+        width: 647
+        height: 774
+      alignment: 9
+      pivot: {x: 0.52, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPDano2_16
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 2322
+        width: 647
+        height: 774
+      alignment: 9
+      pivot: {x: 0.52, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPDano2_17
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 2322
+        width: 647
+        height: 774
+      alignment: 9
+      pivot: {x: 0.52, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPDano2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1548
+        width: 647
+        height: 774
+      alignment: 9
+      pivot: {x: 0.52, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPDano2_19
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1548
+        width: 647
+        height: 774
+      alignment: 9
+      pivot: {x: 0.52, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPDano2_20
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 1548
+        width: 647
+        height: 774
+      alignment: 9
+      pivot: {x: 0.52, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPDano2_21
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 1548
+        width: 647
+        height: 774
+      alignment: 9
+      pivot: {x: 0.52, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPDano2_22
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 1548
+        width: 647
+        height: 774
+      alignment: 9
+      pivot: {x: 0.52, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPDano2_23
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 1548
+        width: 647
+        height: 774
+      alignment: 9
+      pivot: {x: 0.52, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPDano2_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 774
+        width: 647
+        height: 774
+      alignment: 9
+      pivot: {x: 0.52, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPDano2_25
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 774
+        width: 647
+        height: 774
+      alignment: 9
+      pivot: {x: 0.52, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPDano2_26
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 774
+        width: 647
+        height: 774
+      alignment: 9
+      pivot: {x: 0.52, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPDano2_27
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 774
+        width: 647
+        height: 774
+      alignment: 9
+      pivot: {x: 0.52, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPDano2_28
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 774
+        width: 647
+        height: 774
+      alignment: 9
+      pivot: {x: 0.52, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPDano2_29
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 774
+        width: 647
+        height: 774
+      alignment: 9
+      pivot: {x: 0.52, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CPPDano2_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 647
+        height: 774
+      alignment: 9
+      pivot: {x: 0.52, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

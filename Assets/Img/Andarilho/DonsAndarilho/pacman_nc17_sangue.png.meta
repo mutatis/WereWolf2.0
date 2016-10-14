@@ -1,0 +1,413 @@
+fileFormatVersion: 2
+guid: 4b5c740fdc385e44ab4dd9459c1150ba
+labels:
+- Andarilho
+- Dons
+- Pacman
+timeCreated: 1468862555
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pacman_nc17_sangue_0
+    21300002: pacman_nc17_sangue_1
+    21300004: pacman_nc17_sangue_2
+    21300006: pacman_nc17_sangue_3
+    21300008: pacman_nc17_sangue_4
+    21300010: pacman_nc17_sangue_5
+    21300012: pacman_nc17_sangue_6
+    21300014: pacman_nc17_sangue_7
+    21300016: pacman_nc17_sangue_8
+    21300018: pacman_nc17_sangue_9
+    21300020: pacman_nc17_sangue_10
+    21300022: pacman_nc17_sangue_11
+    21300024: pacman_nc17_sangue_12
+    21300026: pacman_nc17_sangue_13
+    21300028: pacman_nc17_sangue_14
+    21300030: pacman_nc17_sangue_15
+    21300032: pacman_nc17_sangue_16
+    21300034: pacman_nc17_sangue_17
+    21300036: pacman_nc17_sangue_18
+    21300038: pacman_nc17_sangue_19
+    21300040: pacman_nc17_sangue_20
+    21300042: pacman_nc17_sangue_21
+    21300044: pacman_nc17_sangue_22
+    21300046: pacman_nc17_sangue_23
+    21300048: pacman_nc17_sangue_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 2
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 0
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pacman_nc17_sangue_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1104
+        width: 266
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pacman_nc17_sangue_1
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1104
+        width: 266
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pacman_nc17_sangue_2
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1104
+        width: 266
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pacman_nc17_sangue_3
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1104
+        width: 266
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pacman_nc17_sangue_4
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1104
+        width: 266
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pacman_nc17_sangue_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 828
+        width: 266
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pacman_nc17_sangue_6
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 828
+        width: 266
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pacman_nc17_sangue_7
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 828
+        width: 266
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pacman_nc17_sangue_8
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 828
+        width: 266
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pacman_nc17_sangue_9
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 828
+        width: 266
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pacman_nc17_sangue_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 552
+        width: 266
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pacman_nc17_sangue_11
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 552
+        width: 266
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pacman_nc17_sangue_12
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 552
+        width: 266
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pacman_nc17_sangue_13
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 552
+        width: 266
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pacman_nc17_sangue_14
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 552
+        width: 266
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pacman_nc17_sangue_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 266
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pacman_nc17_sangue_16
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 276
+        width: 266
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pacman_nc17_sangue_17
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 276
+        width: 266
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pacman_nc17_sangue_18
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 276
+        width: 266
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pacman_nc17_sangue_19
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 276
+        width: 266
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pacman_nc17_sangue_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 266
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pacman_nc17_sangue_21
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 0
+        width: 266
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pacman_nc17_sangue_22
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 0
+        width: 266
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pacman_nc17_sangue_23
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 0
+        width: 266
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: pacman_nc17_sangue_24
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 0
+        width: 266
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
