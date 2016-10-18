@@ -221,8 +221,8 @@ Material:
         name: _AlphaTex
       second:
         m_Texture: {fileID: 2800000, guid: be477d66adbc0454485c35dfe2f43629, type: 3}
-        m_Scale: {x: 0.0025399632, y: 0.0070761214}
-        m_Offset: {x: 1.4396785, y: -1.1638708}
+        m_Scale: {x: 0.0025399635, y: 0.0070761214}
+        m_Offset: {x: 1.4396787, y: -1.1638702}
     - first:
         name: _MainTex
       second:
@@ -468,8 +468,8 @@ Material:
         name: _AlphaTex
       second:
         m_Texture: {fileID: 2800000, guid: f8b71ab9af41f1a4984e8896bc7c4810, type: 3}
-        m_Scale: {x: 0.0025399632, y: 0.0070761214}
-        m_Offset: {x: 1.4396785, y: -1.214115}
+        m_Scale: {x: 0.0025399635, y: 0.0070761214}
+        m_Offset: {x: 1.4396785, y: -1.2141148}
     - first:
         name: _MainTex
       second:
@@ -878,8 +878,8 @@ Material:
         name: _AlphaTex
       second:
         m_Texture: {fileID: 2800000, guid: be477d66adbc0454485c35dfe2f43629, type: 3}
-        m_Scale: {x: 0.0025399632, y: 0.0070761214}
-        m_Offset: {x: 1.4396785, y: -1.1638708}
+        m_Scale: {x: 0.0025399635, y: 0.0070761214}
+        m_Offset: {x: 1.4396785, y: -1.1638707}
     - first:
         name: _MainTex
       second:

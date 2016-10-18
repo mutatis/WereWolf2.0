@@ -69,7 +69,7 @@ MonoBehaviour:
   - {fileID: 114000012764709960}
   MasterBankRef: {fileID: 114000010797368824}
   StringsBankRef: {fileID: 114000012578111778}
-  stringsBankWriteTime: 636098862398332084
+  stringsBankWriteTime: 636116956080000000
   cacheVersion: 2
 --- !u!114 &11403528
 MonoBehaviour:
@@ -2147,7 +2147,7 @@ MonoBehaviour:
   m_Name: FMODStudioCache
   m_EditorClassIdentifier: 
   Path: Assets\Audio\werewolf\Build\Desktop\Master Bank.bank
-  lastModified: 636098862398272042
+  lastModified: 636116956080000000
   LoadResult: 0
   FileSizes:
   - Name: Desktop
@@ -2216,6 +2216,21 @@ MonoBehaviour:
   Parameters: []
   MinDistance: 1
   MaxDistance: 20
+--- !u!114 &114000010857740098
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Name: transition_final
+  Min: 0
+  Max: 100
+  Default: 0
 --- !u!114 &114000010858307954
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2387,6 +2402,21 @@ MonoBehaviour:
   Parameters: []
   MinDistance: 1
   MaxDistance: 20
+--- !u!114 &114000011017011966
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Name: barulho
+  Min: 0
+  Max: 100
+  Default: 0
 --- !u!114 &114000011020311558
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2538,7 +2568,7 @@ MonoBehaviour:
   Is3D: 1
   IsOneShot: 0
   Parameters:
-  - {fileID: 114000012096765148}
+  - {fileID: 114000013123011570}
   MinDistance: 1
   MaxDistance: 20
 --- !u!114 &114000011419792486
@@ -3161,7 +3191,7 @@ MonoBehaviour:
   Is3D: 1
   IsOneShot: 0
   Parameters:
-  - {fileID: 114000010982396506}
+  - {fileID: 114000010857740098}
   MinDistance: 1
   MaxDistance: 20
 --- !u!114 &114000012284750388
@@ -3320,7 +3350,7 @@ MonoBehaviour:
   m_Name: FMODStudioCache
   m_EditorClassIdentifier: 
   Path: Assets\Audio\werewolf\Build\Desktop\Master Bank.strings.bank
-  lastModified: 636098862398332084
+  lastModified: 636116956080000000
   LoadResult: 0
   FileSizes:
   - Name: Desktop
@@ -3650,6 +3680,21 @@ MonoBehaviour:
   Parameters: []
   MinDistance: 1
   MaxDistance: 20
+--- !u!114 &114000013123011570
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Name: volume
+  Min: 0
+  Max: 1
+  Default: 0
 --- !u!114 &114000013130252776
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4015,7 +4060,7 @@ MonoBehaviour:
   Is3D: 1
   IsOneShot: 1
   Parameters:
-  - {fileID: 114000013383442626}
+  - {fileID: 114000011017011966}
   MinDistance: 1
   MaxDistance: 20
 --- !u!114 &114000013868544222
