@@ -171,6 +171,8 @@
     </object>
     <object class="MixerBusEffectChain" id="{b967ed70-b6ba-4594-92e4-ab909278352d}">
         <relationship name="effects">
+            <destination>{6a9b8818-f1e5-42a0-ab5f-a4508e2d3da6}</destination>
+            <destination>{cf3d09f7-0080-4236-8bcc-403b5b7590cf}</destination>
             <destination>{8ca19239-c00b-42b5-b8bd-bd030d82cf94}</destination>
             <destination>{1f971552-16d6-4221-884f-7e9129629ef6}</destination>
         </relationship>
@@ -220,6 +222,19 @@
         <relationship name="mixerReturn">
             <destination>{48c1c7c2-53fc-403b-b93f-d6e0b6a27461}</destination>
         </relationship>
+    </object>
+    <object class="LowpassEffect" id="{6a9b8818-f1e5-42a0-ab5f-a4508e2d3da6}">
+        <property name="cutoff">
+            <value>1500</value>
+        </property>
+        <property name="resonance">
+            <value>1.69999993</value>
+        </property>
+    </object>
+    <object class="ThreeEQEffect" id="{cf3d09f7-0080-4236-8bcc-403b5b7590cf}">
+        <property name="lowGain">
+            <value>0.5</value>
+        </property>
     </object>
     <object class="MixerBusFader" id="{8ca19239-c00b-42b5-b8bd-bd030d82cf94}"/>
     <object class="CompressorEffect" id="{1f971552-16d6-4221-884f-7e9129629ef6}">

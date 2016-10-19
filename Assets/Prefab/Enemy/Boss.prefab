@@ -69,6 +69,7 @@ GameObject:
   - 65: {fileID: 6516766}
   - 114: {fileID: 11463872}
   - 114: {fileID: 11427554}
+  - 114: {fileID: 114000013301954048}
   m_Layer: 0
   m_Name: EnemyT4
   m_TagString: Untagged
@@ -328,6 +329,7 @@ MonoBehaviour:
   probabilidade: {fileID: 11443382}
   probabilidade2: {fileID: 114000012376216554}
   tiroSound: event:/Golpes/Enemy/Pistol
+  lifeBreak: event:/Golpes/Enemy/Lifebreak
   summon: {fileID: 0}
   enemyanim: {fileID: 114000013343495204}
   stun: 0
@@ -474,6 +476,7 @@ GameObject:
   - 65: {fileID: 65000013065753030}
   - 114: {fileID: 114000011787608708}
   - 114: {fileID: 114000011609379838}
+  - 114: {fileID: 114000014132576478}
   m_Layer: 0
   m_Name: EnemyT3
   m_TagString: Untagged
@@ -494,6 +497,7 @@ GameObject:
   - 65: {fileID: 65000010892516770}
   - 114: {fileID: 114000013343495204}
   - 114: {fileID: 114000012376216554}
+  - 114: {fileID: 114000011280939338}
   m_Layer: 0
   m_Name: EnemyT1
   m_TagString: Untagged
@@ -514,6 +518,7 @@ GameObject:
   - 65: {fileID: 65000012009006172}
   - 114: {fileID: 114000012987503448}
   - 114: {fileID: 114000013665578522}
+  - 114: {fileID: 114000010271604818}
   m_Layer: 0
   m_Name: EnemyT2
   m_TagString: Untagged
@@ -694,6 +699,32 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
+--- !u!114 &114000010271604818
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000012548160542}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56efde19607bee844b23a3022a70a8d0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sdStart: 
+  sdJump: 
+--- !u!114 &114000011280939338
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000012029875418}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56efde19607bee844b23a3022a70a8d0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sdStart: event:/Golpes/Enemy/SaltoDilaceranteStart
+  sdJump: event:/Golpes/Enemy/SaltoDilaceranteJump
 --- !u!114 &114000011609379838
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -776,6 +807,19 @@ MonoBehaviour:
   fomorDescida: 
   fomorSubida: 
   nome: 
+--- !u!114 &114000013301954048
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 189900}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56efde19607bee844b23a3022a70a8d0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sdStart: 
+  sdJump: 
 --- !u!114 &114000013343495204
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -817,6 +861,19 @@ MonoBehaviour:
     probalidade: 0
   - attack: Summon
     probalidade: 0
+--- !u!114 &114000014132576478
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000010655713596}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56efde19607bee844b23a3022a70a8d0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sdStart: 
+  sdJump: 
 --- !u!212 &212000012471121868
 SpriteRenderer:
   m_ObjectHideFlags: 1

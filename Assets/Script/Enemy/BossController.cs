@@ -14,7 +14,7 @@ public class BossController : MonoBehaviour
 	public ProbabilidadeEnemy probabilidade2; 
 
 	[FMODUnity.EventRef]
-	public string tiroSound;
+	public string tiroSound, lifeBreak;
 
 	FMOD.Studio.EventInstance volBoss;
 
@@ -75,16 +75,25 @@ public class BossController : MonoBehaviour
         {
             if ((lifeMax / 4) * 3 > life && (lifeMax / 4) * 2 < life && estagio == 4)
             {
+                volBoss = FMODUnity.RuntimeManager.CreateInstance(lifeBreak);
+                volBoss.setVolume(PlayerPrefs.GetFloat("VolumeFX"));
+                volBoss.start();
                 estagio = 3;
                 anim.runtimeAnimatorController = t2.GetComponent<Animator>().runtimeAnimatorController;
             }
             else if ((lifeMax / 4) * 2 > life && (lifeMax / 4) * 1 < life && estagio == 3)
             {
+                volBoss = FMODUnity.RuntimeManager.CreateInstance(lifeBreak);
+                volBoss.setVolume(PlayerPrefs.GetFloat("VolumeFX"));
+                volBoss.start();
                 estagio = 2;
                 anim.runtimeAnimatorController = t3.GetComponent<Animator>().runtimeAnimatorController;
             }
             else if ((lifeMax / 4) * 1 > life && estagio == 2)
             {
+                volBoss = FMODUnity.RuntimeManager.CreateInstance(lifeBreak);
+                volBoss.setVolume(PlayerPrefs.GetFloat("VolumeFX"));
+                volBoss.start();
                 estagio = 1;
                 anim.runtimeAnimatorController = t4.GetComponent<Animator>().runtimeAnimatorController;
             }
